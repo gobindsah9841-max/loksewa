@@ -7,6 +7,7 @@
 # /tmp/loksewa-browser-check). Nothing is added to the repository or to the APK.
 #
 #   bash android-app/tools/browser_check.sh [www-dir] [screenshot-dir]
+#   SETUP_ONLY=1 bash android-app/tools/browser_check.sh      # only install the browser and the fonts
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
 WWW="${1:-/tmp/loksewa-apk-work/assets/www}"
@@ -52,6 +53,9 @@ cat > "$BC/fonts.conf" <<XML
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 <fontconfig><dir>$BC/fonts</dir><cachedir>$BC/fonts-cache</cachedir><config></config></fontconfig>
 XML
+
+# web-app/check_web.sh uses the same browser: it asks for the setup only
+if [ -n "${SETUP_ONLY:-}" ]; then exit 0; fi
 
 echo "== 1. Behaviour checks (jsdom)"
 node "$HERE/test_ui.js" "$WWW" "$BC/node_modules" | tail -1
