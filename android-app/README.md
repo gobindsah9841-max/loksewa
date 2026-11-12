@@ -72,9 +72,9 @@ Every question keeps the label it has in the book. All of them are practice ques
 
 The app holds exactly what is in `study-book/` on the day it is built. `release/BUILD-INFO.md` gives the numbers.
 
-The first build (12 November 2026) holds **Parts 1–12: the four front Parts and Chapters 1–8, with 585 MCQs and
-117 short-answer questions.** Chapter 9 (Current Affairs) was still being written and is not in it. Mental ability
-(Chapters 19–21) is not written yet, so the timed test has General Knowledge questions only.
+Version 1.13 (12 November 2026) holds **Parts 1–13: the four front Parts and Chapters 1–9, with 650 MCQs and
+130 short-answer questions.** The first build, version 1.12, stopped at Chapter 8. The province chapters and the
+mental-ability chapter are not written yet, so the timed test has General Knowledge questions only.
 
 The facts are as dated in each chapter. The app does not update itself: build it again after the book changes.
 
@@ -200,6 +200,7 @@ android-app/
 │   ├── fetch_toolchain.sh    gets the build tools
 │   ├── make_assets.py        book → pages, questions, search index
 │   ├── make_icons.py         draws the launcher icon
+│   ├── check_chapter.py      checks that a chapter of the book follows the fixed layout
 │   ├── test_ui.js            55 behaviour checks (jsdom)
 │   ├── browser_check.mjs     walk through every screen in headless Chromium
 │   └── browser_check.sh      installs what the two tests need and runs them
