@@ -51,8 +51,8 @@ This index lists every Part of the book, the file that holds it, and whether it 
 | Part | Chapter | Title | Priority | File | Status |
 |---|---|---|---|---|---|
 | 14 | 10 | Koshi Province | High for Koshi candidates | `part-14-chapter-10-koshi-province.md` | ✅ Written |
-| 15 | 11 | Madhesh Province | High for Madhesh candidates | `part-15-chapter-11-madhesh-province.md` | ⏳ Next |
-| 16 | 12 | Bagmati Province | High for Bagmati candidates | `part-16-chapter-12-bagmati-province.md` | ◻ Pending |
+| 15 | 11 | Madhesh Province | High for Madhesh candidates | `part-15-chapter-11-madhesh-province.md` | ✅ Written |
+| 16 | 12 | Bagmati Province | High for Bagmati candidates | `part-16-chapter-12-bagmati-province.md` | ⏳ Next |
 | 17 | 13 | Gandaki Province | High for Gandaki candidates | `part-17-chapter-13-gandaki-province.md` | ◻ Pending |
 | 18 | 14 | Lumbini Province | High for Lumbini candidates | `part-18-chapter-14-lumbini-province.md` | ◻ Pending |
 | 19 | 15 | Karnali Province | High for Karnali candidates | `part-19-chapter-15-karnali-province.md` | ◻ Pending |
@@ -235,6 +235,19 @@ This index lists every Part of the book, the file that holds it, and whether it 
 | 10.5 | Economy |
 | 10.6 | Government and institutions |
 | 10.7 | The province in numbers and superlatives; fact sheet |
+| — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
+
+### Chapter 11 — Madhesh Province (Part 15)
+
+| Topic | Title |
+|---|---|
+| 11.1 | Profile of the province |
+| 11.2 | Physical geography |
+| 11.3 | History and archaeology |
+| 11.4 | Society and culture |
+| 11.5 | Economy |
+| 11.6 | Government and institutions |
+| 11.7 | The province in numbers and superlatives; fact sheet |
 | — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
 
 The topic lists planned for the remaining chapters are in Part 4.

@@ -112,7 +112,7 @@ Three further findings change how this book must be used:
 
 **Notes**
 
-- **Madhesh:** the *numbers* were read from a clear page image. The *unit titles* (page 3) were not seen. Because the allocation is identical to Gandaki and Sudurpashchim, the unit list is very probably the same, but this is an inference.
+- **Madhesh:** the *numbers* were read from a clear page image. The *unit titles* (page 3) were not seen. Because the allocation is identical to Gandaki and Sudurpashchim, the unit list is very probably the same, but this is an inference. *Re-read on 12 November 2026 (for Chapter 11):* the cover page, the marks table, the first page of Paper II and the two pages on the computer test were seen again and agree with this Part. The page with the unit titles still could not be opened. Since there are exactly eleven units, no unit is set apart for the province.
 - † **Lumbini, units 1.10–1.12:** the three counts together are certainly 7. The reading 3-2-2 is the more probable one; 2-2-3 cannot be excluded. Current affairs is 2 in both readings. *Re-read on 11 November 2026 (for Chapter 8):* the row again reads 3-2-2, and the twelve general-knowledge counts so read add to 30. The mental-ability counts in the same row were not legible.
 
 ### 2.6.2 Koshi (35 GK questions)
@@ -197,7 +197,7 @@ Only differences noted during the reading are listed. An empty cell does not pro
 | Current affairs | **Bagmati** adds national and international days. |
 | Language | **Koshi**: Nepali 2 + English 2. **Bagmati**: Nepali 3 + English 3 (as read). Not examined elsewhere. |
 | Governance | A GK unit only in **Bagmati** (unit 1.8). |
-| Own province | Separate unit: **Koshi** (1.5), **Lumbini** (1.12). Inside other units: **Gandaki**, **Karnali**, **Sudurpashchim**. **Madhesh**: not confirmed. **Bagmati**: no separate unit noted. |
+| Own province | Separate unit: **Koshi** (1.5), **Lumbini** (1.12). Inside other units: **Gandaki**, **Karnali**, **Sudurpashchim**. **Madhesh**: no separate unit (eleven units only); whether a unit names the province inside its wording is not confirmed. **Bagmati**: no separate unit noted. |
 
 ---
 
@@ -266,7 +266,7 @@ Only differences noted during the reading are listed. An empty cell does not pro
 
 ## 2.12 Open items to verify
 
-1. **Madhesh** — open the official PDF of 24 Mangsir 2082 and compare it with the Province No. 2 document; read page 3 for the unit wording.
+1. **Madhesh** — open the official PDF of 24 Mangsir 2082 and compare it with the Province No. 2 document; read page 3 for the unit wording. *Tried again on 12 November 2026 (Chapter 11): still not possible.*
 2. **Lumbini** — read the revision notice of 2 Ashoj 2083; confirm units 1.10–1.12 and the mental-ability split.
 3. **Karnali** — confirm the effective date, the pass mark and the unit-wise table.
 4. **Bagmati** — confirm on the official site that the 2077/09/12 syllabus is still in force; resolve the 41-versus-40 count.

@@ -22,8 +22,9 @@ The order follows the book plan (A to L), then the syllabus-mandated additions.
 | 8 | 12 | 8 International Relations and Organisations | ✅ Written |
 | 9 | 13 | 9 Current Affairs | ✅ Written |
 | 10 | 14 | 10 Koshi Province | ✅ Written |
-| 11 | 15 | 11 Madhesh Province | ⏳ Next |
-| 12–16 | 16–20 | 12–16 Province chapters, Bagmati to Sudurpashchim | ◻ |
+| 11 | 15 | 11 Madhesh Province | ✅ Written |
+| 12 | 16 | 12 Bagmati Province | ⏳ Next |
+| 13–16 | 17–20 | 13–16 Province chapters, Gandaki to Sudurpashchim | ◻ |
 | 17 | 21 | 17 Public Management and Office Management | ◻ |
 | 18 | 22 | 18 Mental Ability | ◻ |
 | 19–21 | 23–25 | 19 Universe and World Geography; 20 World History; 21 Nepali and English | ◻ |
@@ -155,7 +156,7 @@ Every province chapter follows one template, so that provinces can be compared.
 | Chapter | Province | Examined as | Special points from the syllabus |
 |---|---|---|---|
 | 10 ✅ | Koshi | Separate unit 1.5 (2 questions) | Provincial periodic plan is also named in unit 1.10 |
-| 11 | Madhesh | Not confirmed (unit titles not read) | — |
+| 11 ✅ | Madhesh | No separate unit: eleven units only (unit titles not read) | Province facts may be asked inside the geography, history, society, economy and current-affairs units |
 | 12 | Bagmati | No separate unit noted | Useful as national GK |
 | 13 | Gandaki | Inside geography and culture units | — |
 | 14 | Lumbini | Separate unit 1.12 (2 questions as read; possibly 3) | The wording of the unit will be re-read when the chapter is written |
@@ -183,6 +184,25 @@ Every province chapter follows one template, so that provinces can be compared.
 3. A province may have two vision statements: a long-term vision and the vision of the plan now in force. Find both.
 4. The office-holders of a province change often. Give the date with each name, and say "not found" where no report was found.
 5. Topic x.7 must stand alone, because candidates of the other provinces read only that topic.
+
+### Chapter 11 — Madhesh Province ✅
+
+| Item | Detail |
+|---|---|
+| Syllabus units | Madhesh has eleven general-knowledge units (1, 2, 4, 1, 2, 4, 3, 3, 3, 2 and 5 questions). Their titles could not be read; the count shows that no unit is set apart for the province. No other province's syllabus names Madhesh Province |
+| Priority | High for Madhesh candidates. Candidates of the other provinces need topic 11.7 only |
+| Topics | 11.1 Profile of the province · 11.2 Physical geography · 11.3 History and archaeology · 11.4 Society and culture · 11.5 Economy · 11.6 Government and institutions · 11.7 The province in numbers and superlatives; fact sheet |
+| Questions | 35 in topics + 25 at chapter end = 60 MCQs; 7 + 5 = 12 short-answer questions. Because the Madhesh paper asks for 12 of 30 questions in the harder forms, 24 of the 60 MCQs are in those forms |
+| Facts checked on | 12 November 2026 (26 Kartik 2083) |
+| Special care | The figures already given in Chapters 1 to 10 are kept the same. District areas and populations were checked against an encyclopaedia list and add to the provincial totals. The plan file, the budget speech and the provincial portal could not be opened; the plan's vision is confirmed, its number targets rest on third-party notes only. A list of facts written from memory and a list taken from general-knowledge books are in section F of the chapter |
+| Facts to re-check under UPDATE | The vote of confidence of 28 Kartik 2083 and the Chief Minister after it; the coalition, the ministers and the number of ministries; party seats; the Province Chief and the Speaker; the Public Service Commission's office-bearers; the economy's figures for the next year; the budget of 2084/85; the Sunkoshi–Marin Diversion, the Expressway, the railway to Bardibas and the Nijgadh airport; any law on provincial languages |
+
+**What the second province chapter added — to be followed in Chapters 12 to 16**
+
+6. When an official file cannot be opened, say so in the head table of the chapter, and mark every statement drawn from the question counts as an inference.
+7. Add up the reported sources of a provincial budget. In Madhesh they reach the total only without the conditional grant, so a "share of grants" worked out from two press figures may not compare like with like (a note was added to Chapter 5).
+8. When an event is due within days of writing — here a vote of confidence — write "result not known" in the table of open matters instead of guessing.
+9. Write the share of the harder question forms to fit the province's own rule.
 
 ---
 
@@ -238,8 +258,9 @@ These three lists are a working plan built from the usual question types of the 
 3. The current periodic plan and the provincial periodic plans — covered in Chapter 5; the vision of Sudurpashchim's plan and the final text of Bagmati's second plan are still to be confirmed. Koshi's two vision statements were sorted out in Chapter 10, from press reports; the plan document itself is still to be read.
 4. Federal and provincial governments and office-holders as they stand now, with the new names of the 18 ministries (Chapter 7 gives four of them).
 5. Status of graduation from the least-developed-country category — settled for now: on 29 October 2026 the United Nations General Assembly moved it from 24 November 2026 to 24 November 2029 (Chapter 5, topic 5.10).
-6. Open syllabus items listed in Part 2, section 2.12. For Chapter 11, the titles of the Madhesh units are still unread; the Madhesh syllabus must be looked for again.
+6. Open syllabus items listed in Part 2, section 2.12. The titles of the Madhesh units were looked for again on 12 November 2026, while Chapter 11 was written, and are still unread: the official file opens only in a viewer and the page image with the titles could not be opened.
 7. Koshi Province, left open by Chapter 10: a new Province Chief; a new chairperson of the Province Public Service Commission; the remaining 14 percent of the budget of 2083/84; district populations against the census tables; the later course of the Pathibhara cable car.
-8. Any official question paper or answer key that can be verified (Part 3, section 3.9).
+8. Madhesh Province, left open by Chapter 11: the result of the vote of confidence of 28 Kartik 2083; the ministers and the number of ministries; the text and the number targets of the second periodic plan; the budget speech, to settle whether the total of Rs 41.14 billion includes the conditional grant; the vision of the first plan; the result of the House seat Dhanusha–1.
+9. Any official question paper or answer key that can be verified (Part 3, section 3.9).
 
 *End of Part 4.*
