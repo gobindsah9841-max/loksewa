@@ -5,6 +5,10 @@ can be put on the home screen like an app, and **works without the internet afte
 
 **Address:** <https://gobindsah9841-max.github.io/loksewa/>
 
+Or scan this picture with the phone's camera:
+
+<img src="web-app-qr.png" alt="QR code of the web app address" width="200">
+
 It holds the same pages as the [Android app](../android-app/README.md): reading, practice MCQs, timed tests, search,
 text size and dark mode. Nothing has to be installed and no file has to be downloaded by hand.
 
@@ -14,8 +18,8 @@ text size and dark mode. Nothing has to be installed and no file has to be downl
 
 1. Open the address above in **Chrome** (or another browser) while the phone has internet.
 2. Wait a few seconds. A blue message appears at the bottom: **"Saved on this phone. The book now opens without the internet."**
-   From then on the same address opens without internet too. The first visit fetches about 4.5 MB of files
-   (about 1.3 MB when the server compresses them, as GitHub Pages normally does).
+   From then on the same address opens without internet too. The first visit fetches about 4.9 MB of files
+   (about 1.4 MB when the server compresses them, as GitHub Pages normally does). The figure grows as chapters are added.
 3. To get an icon on the home screen: in Chrome open the **⋮** menu and choose **Add to Home screen** (or **Install app**).
    On an iPhone: the Share button, then **Add to Home Screen**. The book then opens in its own window, like an app.
 
