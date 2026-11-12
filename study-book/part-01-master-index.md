@@ -44,13 +44,13 @@ This index lists every Part of the book, the file that holds it, and whether it 
 | 10 | 6 | Society, Culture and Heritage | F | High | `part-10-chapter-06-society-culture-heritage.md` | ✅ Written |
 | 11 | 7 | Science, Technology and Environment | G | Very High | `part-11-chapter-07-science-technology-environment.md` | ✅ Written |
 | 12 | 8 | International Relations and Organisations | H | Moderate | `part-12-chapter-08-international-relations.md` | ✅ Written |
-| 13 | 9 | Current Affairs | I | Very High | `part-13-chapter-09-current-affairs.md` | ⏳ Next |
+| 13 | 9 | Current Affairs | I | Very High | `part-13-chapter-09-current-affairs.md` | ✅ Written |
 
 ### Province chapters
 
 | Part | Chapter | Title | Priority | File | Status |
 |---|---|---|---|---|---|
-| 14 | 10 | Koshi Province | High for Koshi candidates | `part-14-chapter-10-koshi-province.md` | ◻ Pending |
+| 14 | 10 | Koshi Province | High for Koshi candidates | `part-14-chapter-10-koshi-province.md` | ⏳ Next |
 | 15 | 11 | Madhesh Province | High for Madhesh candidates | `part-15-chapter-11-madhesh-province.md` | ◻ Pending |
 | 16 | 12 | Bagmati Province | High for Bagmati candidates | `part-16-chapter-12-bagmati-province.md` | ◻ Pending |
 | 17 | 13 | Gandaki Province | High for Gandaki candidates | `part-17-chapter-13-gandaki-province.md` | ◻ Pending |
@@ -208,6 +208,20 @@ This index lists every Part of the book, the file that holds it, and whether it 
 | 8.8 | BIMSTEC |
 | 8.9 | ASEAN, the European Union and other groupings |
 | 8.10 | Specialised agencies and international financial institutions |
+| — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
+
+### Chapter 9 — Current Affairs (Part 13)
+
+| Topic | Title |
+|---|---|
+| 9.1 | National politics and governance |
+| 9.2 | Economy and development |
+| 9.3 | International events |
+| 9.4 | Science, technology, health and environment |
+| 9.5 | Sports |
+| 9.6 | Awards, books and persons in the news |
+| 9.7 | Province-wise events |
+| 9.8 | National and international days and themes |
 | — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
 
 The topic lists planned for the remaining chapters are in Part 4.

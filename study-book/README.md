@@ -6,9 +6,10 @@ A study book for the objective paper — General Knowledge and General Mental Ab
 
 | | |
 |---|---|
-| **Last updated** | 11 November 2026 (25 Kartik 2083 BS). Research began on 10 November 2026. |
-| **Written so far** | Parts 1–12: front matter and Chapters 1 to 8 |
-| **Next to be written** | Part 13 — Chapter 9: Current Affairs |
+| **Last updated** | 12 November 2026 (26 Kartik 2083 BS). Research began on 10 November 2026. |
+| **Written so far** | Parts 1–13: front matter and Chapters 1 to 9 |
+| **Next to be written** | Part 14 — Chapter 10: Koshi Province |
+| **Android app** | The same book as an offline app with practice questions and timed tests: see the folder `android-app` of this repository |
 | **Language** | Simple English, with key terms in Nepali |
 
 ---
@@ -44,16 +45,17 @@ A study book for the objective paper — General Knowledge and General Mental Ab
 | 10 | Chapter 6 — Society, Culture and Heritage | [`part-10-chapter-06-society-culture-heritage.md`](part-10-chapter-06-society-culture-heritage.md) | ✅ Written — 10 topics, 75 MCQs, 15 short-answer questions |
 | 11 | Chapter 7 — Science, Technology and Environment | [`part-11-chapter-07-science-technology-environment.md`](part-11-chapter-07-science-technology-environment.md) | ✅ Written — 10 topics, 75 MCQs, 15 short-answer questions |
 | 12 | Chapter 8 — International Relations and Organisations | [`part-12-chapter-08-international-relations.md`](part-12-chapter-08-international-relations.md) | ✅ Written — 10 topics, 75 MCQs, 15 short-answer questions |
-| 13 | Chapter 9 — Current Affairs | `part-13-chapter-09-current-affairs.md` | ⏳ **Next** |
-| 14–20 | Chapters 10–16 — Koshi, Madhesh, Bagmati, Gandaki, Lumbini, Karnali, Sudurpashchim | see Part 1 | ◻ Pending |
+| 13 | Chapter 9 — Current Affairs | [`part-13-chapter-09-current-affairs.md`](part-13-chapter-09-current-affairs.md) | ✅ Written — 8 topics, 65 MCQs, 13 short-answer questions |
+| 14 | Chapter 10 — Koshi Province | `part-14-chapter-10-koshi-province.md` | ⏳ **Next** |
+| 15–20 | Chapters 11–16 — Madhesh, Bagmati, Gandaki, Lumbini, Karnali, Sudurpashchim | see Part 1 | ◻ Pending |
 | 21 | Chapter 17 — Public Management and Office Management | `part-21-chapter-17-public-management.md` | ◻ Pending |
 | 22 | Chapter 18 — Mental Ability | `part-22-chapter-18-mental-ability.md` | ◻ Pending |
 | 23–25 | Chapters 19–21 — Universe and World Geography; World History; Nepali and English | see Part 1 | ◻ Pending |
 | 26–28 | Rapid revision capsule; model tests; consolidated references | see Part 1 | ◻ Pending |
 
-**Resume point for CONTINUE:** Part 13, Chapter 9 (Current Affairs), topic 9.1. The planned topics are in Part 4, section 4.2.
+**Resume point for CONTINUE:** Part 14, Chapter 10 (Koshi Province), topic 10.1. The template for the province chapters is in Part 4, section 4.3.
 
-**Questions written so far:** 585 MCQs (70 + 75 + 75 + 65 + 75 + 75 + 75 + 75) and 117 short-answer questions (14 + 15 + 15 + 13 + 15 + 15 + 15 + 15). None is presented as a past question.
+**Questions written so far:** 650 MCQs (70 + 75 + 75 + 65 + 75 + 75 + 75 + 75 + 65) and 130 short-answer questions (14 + 15 + 15 + 13 + 15 + 15 + 15 + 15 + 13). None is presented as a past question.
 
 ---
 
@@ -63,7 +65,7 @@ A study book for the objective paper — General Knowledge and General Mental Ab
 |---|---|
 | **CONTINUE** | The next pending Part is written, starting exactly at the resume point above. You may add a request, for example "CONTINUE with Mental Ability" or "CONTINUE with the Madhesh chapter". |
 | **UPDATE** | Every fact marked 🔄 in the written Parts is checked again against current sources and corrected. The open syllabus items in Part 2, section 2.12 are also re-tried. |
-| **MOCK TEST** | A full 50-question test in the official format of the province you name, with answer key, explanations and a score sheet that applies the 0.4 deduction. Until more chapters are written, a test can cover only the chapters that exist (now Geography, History, the Constitution of Nepal, Federalism and Governance, Economy and Public Finance, Society, Culture and Heritage, Science, Technology and Environment, and International Relations and Organisations). |
+| **MOCK TEST** | A full 50-question test in the official format of the province you name, with answer key, explanations and a score sheet that applies the 0.4 deduction. Until more chapters are written, a test can cover only the chapters that exist (now Geography, History, the Constitution of Nepal, Federalism and Governance, Economy and Public Finance, Society, Culture and Heritage, Science, Technology and Environment, International Relations and Organisations, and Current Affairs). |
 
 ---
 
@@ -134,6 +136,8 @@ A study book for the objective paper — General Knowledge and General Mental Ab
 
 **International relations.** Chapter 8 also mixes two kinds of fact. Fixed facts — the founding dates and seats of world bodies, the Charter, the lists of Secretaries-General and summits, treaty dates and signers, the years in which Nepal joined each body — are standard reference matter that was written from general knowledge and not re-opened one by one. Moving facts — office-holders, the number of countries with diplomatic relations (188), Nepal's seats in United Nations bodies, the latest summits, the visits and notes of 2026 — were read in press reports, United Nations news and pages of the Ministry of Foreign Affairs, and are marked 🔄. **Six matters were still open on 11 November 2026** and are listed at the head of the chapter: the next Secretary-General of the United Nations had not been chosen; the Prime Minister's visit to India (planned for 22–25 November) had not taken place; the 16th Secretary-General of SAARC had been appointed but not reported in office; the 49th ASEAN Summit and COP31 were not over; and the war in the Gulf was not settled. Anything the chapter says about these is a statement of that day only.
 
+**Current affairs.** Chapter 9 is made only of moving facts, from May 2025 to 11 November 2026. Most of them rest on one or two press reports or on an encyclopaedia year-page, not on a gazette or an official notice; where reports disagree the chapter says so. Some matters were still open on the day of writing — the Prime Minister's visit to India, the next Secretary-General of the United Nations, COP31, the G20 summit, the war on Iran — and the chapter lists them at its head. It grows old faster than any other chapter: use **UPDATE**, and read a daily newspaper in the last weeks.
+
 **Weightage.** "Priority" reflects the official number of questions per unit. It is not a count of past papers, and no cut-off marks are quoted.
 
 ---
@@ -171,8 +175,11 @@ A study book for the objective paper — General Knowledge and General Mental Ab
 | 11 Nov 2026 | Chapter 8: recent facts | Checked against United Nations news and media pages, press releases and pages of the Ministry of Foreign Affairs, a release of the Asian Development Bank, pages of the European Commission and the European Central Bank, the text of the MCC compact and press reports dated up to 11 November 2026: the 188 countries with diplomatic relations and the 44 missions; the Prime Minister's address of 24 September 2026; the Foreign Minister's visits to India and China; the Lipulekh notes of 3 May 2026; the election of the General Assembly President and of Security Council members; the straw polls for the next Secretary-General; Nepal's presidency of the Economic and Social Council and its election to the Human Rights Council; the SAARC and BIMSTEC Secretaries-General; Timor-Leste in ASEAN; Bulgaria and the euro; the heads of the World Bank, the Fund, the Asian Development Bank, the ILO, the WHO, UNESCO and the World Trade Organization; the MCC ground-breaking; the Nagdhunga tunnel; the halt on labour approvals for the Gulf. Sources disagree on the number of Nepali peace-keepers and on several exact days; the chapter's status table says how each was handled. The head of the FAO and the fixed facts of the organisations were not re-opened. |
 | 11 Nov 2026 | Corrections to earlier parts found while researching Chapter 8 | **Part 2:** the note on Lumbini's units 1.10–1.12 now records the second reading (3-2-2), and the row on international relations in section 2.8 now names the International Cooperative Alliance for Bagmati and Lumbini's wording. **Chapter 7:** the Foreign Minister's name was changed from "Shishir Khanal" to "Shisir Khanal", the spelling used by the Ministry of Foreign Affairs. The facts that Chapter 8 shares with Chapters 1, 2, 3, 5 and 7 (boundary lengths, treaty dates, United Nations membership, Articles 51, 278 and 279, the trade share of India, graduation, the floods) were compared and needed no change. |
 | 11 Nov 2026 | Chapter 8: structure, dates and arithmetic | 10 topics × 10 parts; 75 MCQs (50 + 25), each with four options, one answer and a label; every matching, ordering and statement key re-read; 24 different BS–AD pairs re-computed by tool; two questions that repeated questions of Chapter 2 were replaced, after which no question repeats one from Chapters 1 to 7. |
+| 11–12 Nov 2026 | Chapter 9: recent facts | Gathered from encyclopaedia year-pages for Nepal (2025 and 2026) and the world (2026), a press time line of the movement of 2082, United Nations pages, a notice of the World Health Organization, a reference page on the Nobel winners of 2026, the Booker Prizes' pages, pages on the cricket and football tournaments, an examination-guide list of days and themes, and press reports dated up to 11 November 2026. Economic figures and provincial budgets were taken from Chapter 5; wildlife and disaster figures from Chapter 7; foreign-relations facts from Chapter 8. Not found and therefore not stated: a new Province Chief of Koshi, a Chairperson of the Public Service Commission, dates for the elections of 2084, a Bill to amend the Constitution, the theme of World Population Day 2026. |
+| 12 Nov 2026 | Chapter 9: structure, dates and arithmetic | 8 topics × 10 parts; 65 MCQs (40 + 25), each with four options, one answer and a label; answers spread 16–17–16–16 over (a)–(d); every matching, ordering and statement key re-read; 130 BS–AD pairs re-computed by tool; one question that repeated a question of Chapter 5 was replaced, after which no question repeats one from Chapters 1 to 8. The checks are now a script, `android-app/tools/check_chapter.py`. |
+| 12 Nov 2026 | Wording made the same as Chapter 8 | Chapter 9 calls the planned visit to India the Prime Minister's first *bilateral* visit abroad; his first trip abroad was to the United Nations in September 2026. No correction to an earlier Part was needed. |
 
-**Still to research for later chapters:** the full Council of Ministers under the 18 ministries of Baisakh 2083, and the heads of the constitutional bodies (the Chief Election Commissioner was found for Chapter 4; the Public Service Commission had only an acting Chairperson); for Chapter 9, the outcome of COP31 and of the matters left open in Chapter 8 (the next Secretary-General of the United Nations, the Prime Minister's visit to India, the 49th ASEAN Summit, the G20 summit of December 2026), the final figures of the Bhote Koshi flood, the course of the war in the Gulf, which Chapter 8 checked only for its effect on Nepali workers, and the Israeli election of October 2026; the official text of the Economic Survey 2082/83, the Budget Speech 2083/84, the Sixteenth Plan and the census tables, which Chapters 4 to 7 used only through news reports; the periodic plans of Bagmati and Sudurpashchim; Karnali's syllabus file republished in Baisakh 2083; current affairs from May 2025 onward.
+**Still to research for later chapters:** the heads of the constitutional bodies (the Public Service Commission had only an acting Chairperson) and a new Province Chief of Koshi; the matters left open in Chapter 9 (the Prime Minister's visit to India, the next Secretary-General of the United Nations, COP31, the G20 summit of December 2026, the war on Iran, the final figures of the Bhote Koshi flood); the official text of the Economic Survey 2082/83, the Budget Speech 2083/84, the Sixteenth Plan and the census tables, which Chapters 4 to 7 used only through news reports; the periodic plans of Bagmati and Sudurpashchim; Karnali's syllabus file republished in Baisakh 2083; for the province chapters, province-wise tables of caste, language and religion and each province's own laws, bodies and plans.
 
 ---
 

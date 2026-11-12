@@ -20,8 +20,9 @@ The order follows the book plan (A to L), then the syllabus-mandated additions.
 | 6 | 10 | 6 Society, Culture and Heritage | ✅ Written |
 | 7 | 11 | 7 Science, Technology and Environment | ✅ Written |
 | 8 | 12 | 8 International Relations and Organisations | ✅ Written |
-| 9 | 13 | 9 Current Affairs | ⏳ Next |
-| 10–16 | 14–20 | 10–16 Province chapters, Koshi to Sudurpashchim | ◻ |
+| 9 | 13 | 9 Current Affairs | ✅ Written |
+| 10 | 14 | 10 Koshi Province | ⏳ Next |
+| 11–16 | 15–20 | 11–16 Province chapters, Madhesh to Sudurpashchim | ◻ |
 | 17 | 21 | 17 Public Management and Office Management | ◻ |
 | 18 | 22 | 18 Mental Ability | ◻ |
 | 19–21 | 23–25 | 19 Universe and World Geography; 20 World History; 21 Nepali and English | ◻ |
@@ -122,10 +123,19 @@ If your examination is near, you may ask for a different order — for example, 
 | Special care | One topic was added to the plan: Bagmati alone names the Gulf countries, South Korea, Malaysia and Israel, and they now have a topic of their own (8.5). The chapter mixes fixed facts (founding dates, seats, treaty dates), which are standard reference matter that was not re-opened one by one, with moving facts (office-holders, counts, summits), which were read in press reports and official pages and are marked 🔄. Six matters were still open on 11 November 2026 and are listed at the head of the chapter: the next Secretary-General of the United Nations, the Prime Minister's visit to India, the arrival of the 16th SAARC Secretary-General, the 49th ASEAN Summit, the war in the Gulf and COP31. Trade, remittance and graduation stay in Chapter 5; the old treaties in Chapter 2; the Articles of the Constitution in Chapter 3 |
 | Facts to re-check under UPDATE | The next Secretary-General of the United Nations; the result of the Prime Minister's visit to India; the number of countries with diplomatic relations (188 in September 2026) and of missions; the SAARC and BIMSTEC Secretaries-General and any summit; ASEAN's chair and summits; the state of the war in the Gulf and the rule on labour approvals; quotas for South Korea; the Gurkha talks; the MCC lines; Nepal's rank in peace-keeping; members of the Security Council from 2027; the next Director-General of the WHO (May 2027); heads of the financial institutions; the European Union's air safety list |
 
-### Chapter 9 — Current Affairs ⏳
+### Chapter 9 — Current Affairs ✅
 
 | Item | Detail |
 |---|---|
+| Syllabus units | Madhesh, Gandaki, Sudurpashchim 1.11 (5 questions); Koshi 1.9 (5); Bagmati 1.10 (3, as read); Lumbini 1.11 (2); Karnali — examined, unit number and count not legible |
+| Priority | Very High |
+| Topics | 9.1 National politics and governance · 9.2 Economy and development · 9.3 International events · 9.4 Science, technology, health and environment · 9.5 Sports · 9.6 Awards, books and persons in the news · 9.7 Province-wise events · 9.8 National and international days and themes |
+| Questions | 40 in topics + 25 at chapter end = 65 MCQs; 8 + 5 = 13 short-answer questions |
+| Window | May 2025 (Jestha 2082) to 11 November 2026 (25 Kartik 2083) |
+| Special care | Every fact in the chapter is a moving fact, so the mark 🔄 stands on each block, not on each line. Most facts rest on one or two press reports or an encyclopaedia year-page, not on official notices. Events and summits of 2025, the Nobel Prizes of 2025, future hosts of games, the fixed dates of days and some smaller facts were written from standard references and not re-opened; section F of the chapter lists them. Economic figures are those of Chapter 5. |
+| Facts to re-check under UPDATE | Every office-holder and the Council of Ministers; the Prime Minister's visit to India; the next Secretary-General of the United Nations; COP31 and the G20 summit; the war on Iran; the new government of Israel; the third season of the Nepal Premier League; the Tenth National Games; any Bill to amend the Constitution; the dates of the elections of 2084; the grey list; the final count of the Bhote Koshi flood; the themes, hosts and prize-winners of 2027 |
+
+---|---|
 | Syllabus units | Madhesh, Gandaki, Sudurpashchim 1.11 (5 questions); Koshi 1.9 (5); Bagmati 1.10 (3); Lumbini 1.11 (2); Karnali — examined, unit number and count not legible |
 | Priority | Very High |
 | Planned topics | 9.1 National politics and governance · 9.2 Economy and development · 9.3 International events · 9.4 Science and technology · 9.5 Sports · 9.6 Awards, books and persons in the news · 9.7 Province-wise events · 9.8 National and international days and themes |
@@ -209,7 +219,7 @@ These three lists are a working plan built from the usual question types of the 
 
 ## 4.7 Research still to be done before the later chapters
 
-1. Current affairs from May 2025 to the date of writing. Items already met in Chapters 2 to 8 (the change of government in 2082–2083, the budget for 2083/84, the regrouping of the ministries into 18 in Baisakh 2083, the two weekly holidays, Gen Z Martyrs' Day, the move of graduation to 2029, Koshi's official languages, the tiger count of July 2026, the Bhote Koshi flood of 10 Bhadra 2083, COP31, the Nobel Prizes of 2026, Artemis II) must be gathered again in Chapter 9. Chapter 8 added more: the five countries with which Nepal opened relations in September 2026, the Prime Minister's address to the United Nations General Assembly, Nepal's election to the Human Rights Council, the new President of the General Assembly, Timor-Leste in ASEAN, Bulgaria and the euro, the new British Prime Minister, the Nagdhunga tunnel and the visits of the Foreign Minister. Chapter 8 checked the war between the United States and Israel and Iran (from 28 February 2026) only for its effect on Nepali workers; Chapter 9 must cover the war itself, the Israeli election of October 2026 and the outcome of the matters still open on 11 November 2026 — the next Secretary-General of the United Nations, the Prime Minister's visit to India, the 49th ASEAN Summit, COP31 and the G20 summit of December 2026.
+1. Current affairs after 11 November 2026. Chapter 9 now covers May 2025 to 11 November 2026. Still open when it was written, and to be picked up by **UPDATE** or by the province chapters: the Prime Minister's visit to India (planned for 22–25 November 2026); the next Secretary-General of the United Nations; the outcome of COP31 and of the G20 summit of December 2026; the war on Iran; the new government of Israel; the final of the third season of the Nepal Premier League; the Tenth National Games in Karnali; a new Province Chief of Koshi; a Chairperson of the Public Service Commission; any Bill to amend the Constitution; the dates of the elections of 2084; the final figures of the Bhote Koshi flood.
 2. Budget Speech for fiscal year 2083/84 and the Economic Survey 2082/83 — used in Chapters 4 and 5 through news reports; the official documents are still to be opened.
 3. The current periodic plan and the provincial periodic plans — covered in Chapter 5; the vision of Sudurpashchim's plan and the final text of Bagmati's second plan are still to be confirmed.
 4. Federal and provincial governments and office-holders as they stand now, with the new names of the 18 ministries (Chapter 7 gives four of them).
