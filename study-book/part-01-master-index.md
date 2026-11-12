@@ -2,7 +2,7 @@
 
 **Book:** Provincial Public Service Commission (प्रदेश लोक सेवा आयोग) — 5th Level, Non-Technical — Paper I Complete Study Book
 **Covers:** all seven provinces — Koshi, Madhesh, Bagmati, Gandaki, Lumbini, Karnali, Sudurpashchim
-**Edition date:** 11 November 2026 (25 Kartik 2083 BS)
+**Edition date:** 12 November 2026 (26 Kartik 2083 BS)
 
 This index lists every Part of the book, the file that holds it, and whether it has been written. The live status is kept in [`README.md`](README.md).
 
@@ -50,8 +50,8 @@ This index lists every Part of the book, the file that holds it, and whether it 
 
 | Part | Chapter | Title | Priority | File | Status |
 |---|---|---|---|---|---|
-| 14 | 10 | Koshi Province | High for Koshi candidates | `part-14-chapter-10-koshi-province.md` | ⏳ Next |
-| 15 | 11 | Madhesh Province | High for Madhesh candidates | `part-15-chapter-11-madhesh-province.md` | ◻ Pending |
+| 14 | 10 | Koshi Province | High for Koshi candidates | `part-14-chapter-10-koshi-province.md` | ✅ Written |
+| 15 | 11 | Madhesh Province | High for Madhesh candidates | `part-15-chapter-11-madhesh-province.md` | ⏳ Next |
 | 16 | 12 | Bagmati Province | High for Bagmati candidates | `part-16-chapter-12-bagmati-province.md` | ◻ Pending |
 | 17 | 13 | Gandaki Province | High for Gandaki candidates | `part-17-chapter-13-gandaki-province.md` | ◻ Pending |
 | 18 | 14 | Lumbini Province | High for Lumbini candidates | `part-18-chapter-14-lumbini-province.md` | ◻ Pending |
@@ -222,6 +222,19 @@ This index lists every Part of the book, the file that holds it, and whether it 
 | 9.6 | Awards, books and persons in the news |
 | 9.7 | Province-wise events |
 | 9.8 | National and international days and themes |
+| — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
+
+### Chapter 10 — Koshi Province (Part 14)
+
+| Topic | Title |
+|---|---|
+| 10.1 | Profile of the province |
+| 10.2 | Physical geography |
+| 10.3 | History and archaeology |
+| 10.4 | Society and culture |
+| 10.5 | Economy |
+| 10.6 | Government and institutions |
+| 10.7 | The province in numbers and superlatives; fact sheet |
 | — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
 
 The topic lists planned for the remaining chapters are in Part 4.

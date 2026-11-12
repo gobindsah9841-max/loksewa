@@ -547,7 +547,7 @@ Languages belong to **families**. Most Nepalis speak a language of the Indo-Euro
 
 - On 21 Bhadra 2078 (6 September 2021) the Language Commission recommended **11 languages** for use in the provinces (table below).
 - **Bagmati:** passed the Province Official Language Act, 2080. **Tamang and Nepal Bhasa** came into use on **24 Baisakh 2081 (6 May 2024)**. Bagmati keeps that day as a language day with a provincial holiday.
-- **Koshi:** on **25 Kartik 2083 (11 November 2026)** the province brought **13 languages** besides Nepali into government use. They include Maithili, Limbu, Tharu, Tamang, Magar, Bantawa, Chamling, Urdu, Rajbanshi, Nepal Bhasa, Sherpa and Santhali. The provincial Act had been authenticated on 11 Kartik 2083 (28 October 2026).
+- **Koshi:** on **25 Kartik 2083 (11 November 2026)** the province brought **13 languages** besides Nepali into government use. The thirteen, as reported: Maithili, Limbu, Tharu, Tamang, Magar, Bantawa, Urdu, Rajbanshi, Rai, Nepal Bhasa, Chamling, Sherpa and Santhali. The provincial Act had been authenticated on 11 Kartik 2083 (28 October 2026).
 - A news report of October 2026 said that Madhesh had still not made such a law. No such law was found for Gandaki, Lumbini, Karnali or Sudurpashchim either.
 
 **Other facts**
@@ -986,7 +986,7 @@ Questions match a building with its style, a dance with its community, or an ins
 - **Wood-carving:** the windows of the Kathmandu Valley, such as the Peacock Window of Bhaktapur.
 - **Metalwork:** images cast by the lost-wax method in Patan.
 - **Stone sculpture:** the reclining Vishnu of Budhanilkantha, from the Lichhavi period.
-- **Crafts:** Dhaka cloth (Palpa, Tehrathum); pottery (Thimi, Bhaktapur); khukuri (Bhojpur); pashmina; hand-made paper from lokta.
+- **Crafts:** Dhaka cloth (Palpa, Terhathum); pottery (Thimi, Bhaktapur); khukuri (Bhojpur); pashmina; hand-made paper from lokta.
 
 **Musical instruments**
 
@@ -1089,7 +1089,7 @@ Questions match a building with its style, a dance with its community, or an ins
 
 | Province | Arts, dances and crafts to remember |
 |---|---|
-| Koshi | Dhan Nach and Chyabrung dance (Limbu); Sakela (Rai); Dhaka cloth of Tehrathum; khukuri of Bhojpur |
+| Koshi | Dhan Nach and Chyabrung dance (Limbu); Sakela (Rai); Dhaka cloth of Terhathum; khukuri of Bhojpur |
 | Madhesh | Mithila painting; Jhijhiya and Jat-Jatin dances; the Janaki Temple in dome style |
 | Bagmati | Pagoda temples and wood-carving of the Kathmandu Valley; Paubha painting; metalwork of Patan; Lakhe dance; Tamang Selo |
 | Gandaki | Ghatu and Sorathi (Gurung); Kaura (Magar); the Gandarbha and their sarangi |

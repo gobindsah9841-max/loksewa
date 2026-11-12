@@ -21,8 +21,9 @@ The order follows the book plan (A to L), then the syllabus-mandated additions.
 | 7 | 11 | 7 Science, Technology and Environment | ✅ Written |
 | 8 | 12 | 8 International Relations and Organisations | ✅ Written |
 | 9 | 13 | 9 Current Affairs | ✅ Written |
-| 10 | 14 | 10 Koshi Province | ⏳ Next |
-| 11–16 | 15–20 | 11–16 Province chapters, Madhesh to Sudurpashchim | ◻ |
+| 10 | 14 | 10 Koshi Province | ✅ Written |
+| 11 | 15 | 11 Madhesh Province | ⏳ Next |
+| 12–16 | 16–20 | 12–16 Province chapters, Bagmati to Sudurpashchim | ◻ |
 | 17 | 21 | 17 Public Management and Office Management | ◻ |
 | 18 | 22 | 18 Mental Ability | ◻ |
 | 19–21 | 23–25 | 19 Universe and World Geography; 20 World History; 21 Nepali and English | ◻ |
@@ -135,13 +136,6 @@ If your examination is near, you may ask for a different order — for example, 
 | Special care | Every fact in the chapter is a moving fact, so the mark 🔄 stands on each block, not on each line. Most facts rest on one or two press reports or an encyclopaedia year-page, not on official notices. Events and summits of 2025, the Nobel Prizes of 2025, future hosts of games, the fixed dates of days and some smaller facts were written from standard references and not re-opened; section F of the chapter lists them. Economic figures are those of Chapter 5. |
 | Facts to re-check under UPDATE | Every office-holder and the Council of Ministers; the Prime Minister's visit to India; the next Secretary-General of the United Nations; COP31 and the G20 summit; the war on Iran; the new government of Israel; the third season of the Nepal Premier League; the Tenth National Games; any Bill to amend the Constitution; the dates of the elections of 2084; the grey list; the final count of the Bhote Koshi flood; the themes, hosts and prize-winners of 2027 |
 
----|---|
-| Syllabus units | Madhesh, Gandaki, Sudurpashchim 1.11 (5 questions); Koshi 1.9 (5); Bagmati 1.10 (3); Lumbini 1.11 (2); Karnali — examined, unit number and count not legible |
-| Priority | Very High |
-| Planned topics | 9.1 National politics and governance · 9.2 Economy and development · 9.3 International events · 9.4 Science and technology · 9.5 Sports · 9.6 Awards, books and persons in the news · 9.7 Province-wise events · 9.8 National and international days and themes |
-| Window | Roughly May 2025 to the date of writing, month by month |
-| To research | Everything. This chapter is written last among the core chapters so that it is as fresh as possible, and it must be refreshed with **UPDATE** before your examination. |
-
 ---
 
 ## 4.3 Province chapters (Chapters 10–16)
@@ -160,7 +154,7 @@ Every province chapter follows one template, so that provinces can be compared.
 
 | Chapter | Province | Examined as | Special points from the syllabus |
 |---|---|---|---|
-| 10 | Koshi | Separate unit 1.5 (2 questions) | Provincial periodic plan is also named in unit 1.10 |
+| 10 ✅ | Koshi | Separate unit 1.5 (2 questions) | Provincial periodic plan is also named in unit 1.10 |
 | 11 | Madhesh | Not confirmed (unit titles not read) | — |
 | 12 | Bagmati | No separate unit noted | Useful as national GK |
 | 13 | Gandaki | Inside geography and culture units | — |
@@ -169,6 +163,26 @@ Every province chapter follows one template, so that provinces can be compared.
 | 16 | Sudurpashchim | Inside geography, culture and economy units | — |
 
 **To research for every province:** provincial government and assembly facts as they stand now, current provincial plan and budget, province profile data from official provincial sources.
+
+### Chapter 10 — Koshi Province ✅
+
+| Item | Detail |
+|---|---|
+| Syllabus units | Koshi 1.5 "Koshi Province" (2 questions); Koshi 1.10 names the provincial periodic plan (2 questions for the whole unit). No other province's syllabus names Koshi Province |
+| Priority | High for Koshi candidates. Candidates of the other provinces need topic 10.7 only |
+| Topics | 10.1 Profile of the province · 10.2 Physical geography · 10.3 History and archaeology · 10.4 Society and culture · 10.5 Economy · 10.6 Government and institutions · 10.7 The province in numbers and superlatives; fact sheet |
+| Questions | 35 in topics + 25 at chapter end = 60 MCQs; 7 + 5 = 12 short-answer questions |
+| Facts checked on | 12 November 2026 (26 Kartik 2083) |
+| Special care | The figures already given in Chapters 1 to 9 are kept the same. New facts rest mostly on encyclopaedia pages, the provincial portal and press reports. The plan document itself could not be read: the planning commission's page shows it only in a viewer. District populations and a list of smaller facts were written from standard references and not re-opened; section F of the chapter lists them. The "Province link" table of each topic compares Koshi with each of the other provinces |
+| Facts to re-check under UPDATE | A new Province Chief (the term of Parshuram Khapung ended on 24 Kartik 2083); a new chairperson of the Province Public Service Commission; the coalition and the Council of Ministers; party seats; the economy's figures for the next year; installed power and Arun III; the budget of 2084/85; any proposal to change the province's name; the date of the Provincial Assembly election of 2084; the results of the Visit Year; the use of the thirteen languages |
+
+**What the first province chapter showed — to be followed in Chapters 11 to 16**
+
+1. Read the province's unit in the official syllabus again before writing, and quote its wording.
+2. Check the province's row in Chapters 4, 5, 6 and 9 against the new research. Three changes came out of Chapter 10: the vision of Koshi's plan (Chapter 5), the full list of thirteen languages (Chapter 6) and the change of coalition partner in Shrawan–Bhadra 2083 (Chapter 9).
+3. A province may have two vision statements: a long-term vision and the vision of the plan now in force. Find both.
+4. The office-holders of a province change often. Give the date with each name, and say "not found" where no report was found.
+5. Topic x.7 must stand alone, because candidates of the other provinces read only that topic.
 
 ---
 
@@ -219,12 +233,13 @@ These three lists are a working plan built from the usual question types of the 
 
 ## 4.7 Research still to be done before the later chapters
 
-1. Current affairs after 11 November 2026. Chapter 9 now covers May 2025 to 11 November 2026. Still open when it was written, and to be picked up by **UPDATE** or by the province chapters: the Prime Minister's visit to India (planned for 22–25 November 2026); the next Secretary-General of the United Nations; the outcome of COP31 and of the G20 summit of December 2026; the war on Iran; the new government of Israel; the final of the third season of the Nepal Premier League; the Tenth National Games in Karnali; a new Province Chief of Koshi; a Chairperson of the Public Service Commission; any Bill to amend the Constitution; the dates of the elections of 2084; the final figures of the Bhote Koshi flood.
+1. Current affairs after 11 November 2026. Chapter 9 now covers May 2025 to 11 November 2026. Still open when it was written, and to be picked up by **UPDATE** or by the province chapters: the Prime Minister's visit to India (planned for 22–25 November 2026); the next Secretary-General of the United Nations; the outcome of COP31 and of the G20 summit of December 2026; the war on Iran; the new government of Israel; the final of the third season of the Nepal Premier League; the Tenth National Games in Karnali; a new Province Chief of Koshi (still not found on 12 November 2026); a Chairperson of the Public Service Commission; any Bill to amend the Constitution; the dates of the elections of 2084; the final figures of the Bhote Koshi flood.
 2. Budget Speech for fiscal year 2083/84 and the Economic Survey 2082/83 — used in Chapters 4 and 5 through news reports; the official documents are still to be opened.
-3. The current periodic plan and the provincial periodic plans — covered in Chapter 5; the vision of Sudurpashchim's plan and the final text of Bagmati's second plan are still to be confirmed.
+3. The current periodic plan and the provincial periodic plans — covered in Chapter 5; the vision of Sudurpashchim's plan and the final text of Bagmati's second plan are still to be confirmed. Koshi's two vision statements were sorted out in Chapter 10, from press reports; the plan document itself is still to be read.
 4. Federal and provincial governments and office-holders as they stand now, with the new names of the 18 ministries (Chapter 7 gives four of them).
 5. Status of graduation from the least-developed-country category — settled for now: on 29 October 2026 the United Nations General Assembly moved it from 24 November 2026 to 24 November 2029 (Chapter 5, topic 5.10).
-6. Open syllabus items listed in Part 2, section 2.12.
-7. Any official question paper or answer key that can be verified (Part 3, section 3.9).
+6. Open syllabus items listed in Part 2, section 2.12. For Chapter 11, the titles of the Madhesh units are still unread; the Madhesh syllabus must be looked for again.
+7. Koshi Province, left open by Chapter 10: a new Province Chief; a new chairperson of the Province Public Service Commission; the remaining 14 percent of the budget of 2083/84; district populations against the census tables; the later course of the Pathibhara cable car.
+8. Any official question paper or answer key that can be verified (Part 3, section 3.9).
 
 *End of Part 4.*

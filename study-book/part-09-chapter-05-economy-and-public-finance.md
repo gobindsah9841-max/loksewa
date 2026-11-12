@@ -1305,7 +1305,7 @@ Provincial periodic plans, as found in provincial documents and news reports �
 
 | Province | Periodic plan and its vision |
 |---|---|
-| Koshi | Second periodic plan (2081/82–2085/86) in force. Vision: "स्वच्छ, सुखी र समुन्नत प्रदेश" — a clean, happy and prosperous province |
+| Koshi | Second periodic plan (2081/82–2085/86) in force; released on 31 Shrawan 2081 (15 August 2024). **Long-term vision** of the province, kept since the first plan: "स्वच्छ, सुखी र समुन्नत प्रदेश" — a clean, happy and prosperous province. **Vision of the second plan**, as reported at its release: "सुशासित, खुसी, आर्थिक रूपले गतिशील र समुन्नत प्रदेश" — a well-governed, happy, economically dynamic and prosperous province. Details in Chapter 10, topic 10.6 |
 | Madhesh | Second periodic plan (2081/82–2085/86). Vision: "आत्मनिर्भर र समृद्ध मधेश, सुखी मधेशी" — a self-reliant and prosperous Madhesh, happy Madheshi people |
 | Bagmati | The first plan (2076/77–2080/81) carried the vision "सुसंस्कृत र सुखी जनता, समाजवाद उन्मुख समृद्ध प्रदेश" — cultured and happy people, a socialism-oriented prosperous province. A second plan for 2081/82–2085/86 was being prepared; its final wording was not confirmed |
 | Gandaki | Long-term vision to 2100 BS from the first plan: "समृद्ध प्रदेश, सुखी नागरिक" — a prosperous province, happy citizens. The second five-year plan covers 2081/82–2085/86 |
@@ -2868,7 +2868,7 @@ In the Sustainable Development Report 2026, what is Nepal's rank among 167 count
 | Tourist arrivals and campaign targets | Checked against news reports and travel websites 🔄 | They quote the Nepal Tourism Board |
 | Nagdhunga tunnel; airports; railway; telephone and internet density | Checked against news reports and an encyclopaedia page 🔄 | — |
 | Sixteenth Plan: vision, objectives, strategies, targets | Checked against an encyclopaedia page that copies the Plan's tables, and news reports | The Plan was not opened. One source gives the electricity target as 11,739 megawatts |
-| Provincial periodic plans | Checked for six provinces 🔄 | Lumbini's plan and Bagmati's concept paper as shown in search results; news reports for Koshi, Madhesh, Gandaki and Karnali. Sudurpashchim's vision was not found |
+| Provincial periodic plans | Checked for six provinces 🔄 | Lumbini's plan and Bagmati's concept paper as shown in search results; news reports for Koshi, Madhesh, Gandaki and Karnali. Sudurpashchim's vision was not found. The Koshi row was made more exact on 12 November 2026: it now gives the long-term vision and the second plan's own vision separately |
 | Vice-Chairperson of the National Planning Commission; Governor of Nepal Rastra Bank | Checked against news reports 🔄 | — |
 | Poverty, unemployment, minimum wage | Checked against news reports | Reports of the survey of 2079/80; reports of July 2025 on the wage |
 | Graduation from the least-developed-country category | Checked against news reports of May to November 2026 🔄 | Also a United Nations paper and a National Planning Commission review, as shown in search results |
