@@ -12,6 +12,10 @@ It checks the form, not the facts:
   * (if earlier chapters are named) no question stem is nearly the same as an earlier one;
   * (if the package nepali-datetime is installed) every "BS date (AD date)" pair agrees.
 Exit code 1 if a check fails.
+
+Chapters 3 to 10 pass. Chapters 1 and 2 were written before the layout was fixed and are reported for three
+small differences of form (a table title inside the heading of element 4, two topic headings without a Nepali
+name, and 12 and 14 common mistakes instead of 16). Their questions, labels and dates pass.
 """
 import collections
 import difflib
@@ -177,8 +181,19 @@ def main():
         rx = re.compile(r"(\d{1,2})(?:–(\d{1,2}))? (%s) (20\d\d) ?\((?:[a-z ]+)?(\d{1,2})(?:–(\d{1,2}))? (%s) (20\d\d)\)" % ("|".join(BS_MONTHS), "|".join(AD_MONTHS)))
         rx2 = re.compile(r"(\d{1,2}) (%s) (20\d\d); (\d{1,2}) (%s) (20\d\d)\)" % ("|".join(BS_MONTHS), "|".join(AD_MONTHS)))
         text = "\n".join(lines)
-        found = [(m.group(1), m.group(3), m.group(4), m.group(5), m.group(7), m.group(8), m.group(0)) for m in rx.finditer(text)]
-        found += [(m.group(2), m.group(3), m.group(4), m.group(6), m.group(7), m.group(8), m.group(0) + " [end of range]") for m in rx.finditer(text) if m.group(2) and m.group(6)]
+        lead_rx = re.compile(r"(\d{1,2}) (%s)(?: (20\d\d))? (?:–|to) $" % "|".join(BS_MONTHS))
+        found = []
+        for m in rx.finditer(text):
+            lead = lead_rx.search(text[max(0, m.start() - 25):m.start()])
+            if lead and not m.group(2) and m.group(6):
+                # a range that crosses a BS month or year: "25 Kartik – 9 Mangsir 2078 (11–25 November 2021)",
+                # "24 Chaitra 2062 – 11 Baisakh 2063 (6–24 April 2006)"
+                found.append((lead.group(1), lead.group(2), lead.group(3) or m.group(4), m.group(5), m.group(7), m.group(8), lead.group(0) + m.group(0) + " [start of range]"))
+                found.append((m.group(1), m.group(3), m.group(4), m.group(6), m.group(7), m.group(8), lead.group(0) + m.group(0) + " [end of range]"))
+                continue
+            found.append((m.group(1), m.group(3), m.group(4), m.group(5), m.group(7), m.group(8), m.group(0)))
+            if m.group(2) and m.group(6):
+                found.append((m.group(2), m.group(3), m.group(4), m.group(6), m.group(7), m.group(8), m.group(0) + " [end of range]"))
         found += [(m.group(1), m.group(2), m.group(3), m.group(4), m.group(5), m.group(6), m.group(0)) for m in rx2.finditer(text)]
         for bd, bm, by, ad, am, ay, shown in found:
             got = nd.date(int(by), BS_MONTHS.index(bm) + 1, int(bd)).to_datetime_date()

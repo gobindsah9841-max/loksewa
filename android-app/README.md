@@ -2,7 +2,7 @@
 
 The study book in [`../study-book/`](../study-book/README.md), packed as an Android app that works **without the internet**.
 
-**Ready-made file:** [`release/loksewa-study-book.apk`](release/loksewa-study-book.apk) — about 1 MB.
+**Ready-made file:** [`release/loksewa-study-book.apk`](release/loksewa-study-book.apk) — about 1.3 MB.
 
 **To get it on a phone,** open this link in the phone's browser, or scan the picture with the phone's camera:
 
@@ -72,8 +72,9 @@ Every question keeps the label it has in the book. All of them are practice ques
 
 The app holds exactly what is in `study-book/` on the day it is built. `release/BUILD-INFO.md` gives the numbers.
 
-Version 1.13 (12 November 2026) holds **Parts 1–13: the four front Parts and Chapters 1–9, with 650 MCQs and
-130 short-answer questions.** The first build, version 1.12, stopped at Chapter 8. The province chapters and the
+Version 1.14 (12 November 2026) holds **Parts 1–14: the four front Parts and Chapters 1–10, with 710 MCQs and
+142 short-answer questions.** Chapter 10, Koshi Province, is the first of the seven province chapters. Earlier builds:
+version 1.12 stopped at Chapter 8 and version 1.13 at Chapter 9. The other six province chapters and the
 mental-ability chapter are not written yet, so the timed test has General Knowledge questions only.
 
 The facts are as dated in each chapter. The app does not update itself: build it again after the book changes.

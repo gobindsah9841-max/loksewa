@@ -62,7 +62,12 @@ async function runTests(dom) {
   var last = IDX.parts.length - 1;
   await nav('#/read/' + last, 400);
   ok(!!d.getElementById('book'), 'a chapter opens');
-  ok($('#book h2').length >= 9, 'chapter has topic headings (' + $('#book h2').length + ')');
+  /* A chapter has one heading for each topic ("10.1 ...") and one for its end matter. The number of topics
+     differs: 8 to 10 in the national chapters, 7 in the province chapters. */
+  var chNo = IDX.parts[last].ch;
+  var topicHeads = Array.prototype.filter.call($('#book h2'), function (h) { return h.textContent.indexOf(chNo + '.') === 0; }).length;
+  ok(topicHeads >= 5 && $('#book h2').length === topicHeads + 1,
+    'chapter ' + chNo + ' has ' + topicHeads + ' topic headings and one end-matter heading (' + $('#book h2').length + ')');
   ok($('#book .tw table').length > 20, 'tables are wrapped for sideways scrolling (' + $('#book .tw table').length + ')');
   ok($('#book p.ans').length >= IDX.parts[last].mcq, 'answers are marked for hiding (' + $('#book p.ans').length + ')');
   ok($('#book p.qid .chip').length === IDX.parts[last].mcq, 'every question keeps its label chip (' + $('#book p.qid .chip').length + ')');
@@ -91,7 +96,9 @@ async function runTests(dom) {
   var ch = IDX.chapters[IDX.chapters.length - 1];
   await nav('#/quiz/' + ch, 400);
   var topicButtons = $('#main button.card');
-  ok(topicButtons.length >= 9, 'chapter ' + ch + ' lists its topics (' + topicButtons.length + ')');
+  var sets = w.LSDATA.quiz[ch].topics.length;   /* the topics, and the Top 25 of the chapter end */
+  ok(ch === chNo && sets === topicHeads + 1 && topicButtons.length === sets,
+    'chapter ' + ch + ' lists its ' + topicHeads + ' topics and the Top 25 (' + topicButtons.length + ' sets)');
   topicButtons[0].click();
   await sleep(200);
   ok(w.location.hash === '#/run' && $('.q .opt').length === 4, 'a topic starts with a four-option question');
