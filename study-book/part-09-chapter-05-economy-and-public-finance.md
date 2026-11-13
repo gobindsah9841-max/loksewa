@@ -1804,6 +1804,7 @@ Federal grants as a share of each province's budget for 2083/84 🔄. The share 
 | Sudurpashchim | 16.01 | 37.70 | 42.5% |
 
 - **Karnali** leans most on federal grants and **Bagmati** least.
+- **A caution on Madhesh** (added with Chapter 11): press reports of the Madhesh budget list sources that reach Rs 41.14 billion without the conditional grant of Rs 8.10 billion. If that grant is outside the total, the 42.8 percent above does not compare like with like. See Chapter 11, topic 11.6.
 - The rest of a provincial budget comes from shared revenue, the province's own taxes and fees, unspent money of the last year and loans.
 
 #### 9 · Practice MCQs

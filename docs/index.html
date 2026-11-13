@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Loksewa Study Book</title>
+<link rel="stylesheet" href="app.css">
+<meta name="description" content="Study book for the provincial Public Service Commission 5th Level (non-technical) Paper I: reading, practice MCQs, timed tests and search. Works without the internet after the first visit.">
+<meta name="theme-color" content="#1f3a5f">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Loksewa">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+</head>
+<body class="th-light fs2">
+<div id="bar">
+  <button id="btnBack" class="ib" type="button" aria-label="Back"><svg viewBox="0 0 24 24" width="24" height="24"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+  <div id="title">Loksewa Study Book</div>
+  <button id="btnToc" class="ib" type="button" aria-label="Contents of this part"><svg viewBox="0 0 24 24" width="24" height="24"><path d="M4 6h16M4 12h16M4 18h10" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg></button>
+  <button id="btnSearch" class="ib" type="button" aria-label="Search"><svg viewBox="0 0 24 24" width="24" height="24"><circle cx="10.5" cy="10.5" r="6" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15 15l5 5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg></button>
+  <button id="btnSet" class="ib txt" type="button" aria-label="Text size and settings">Aa</button>
+</div>
+<div id="main"><p class="pad">Loading…</p></div>
+<div id="shade" class="hidden"></div>
+<div id="drawer" class="hidden"></div>
+<script>
+window.LSDATA = { index: null, part: {}, quiz: {}, search: null };
+function LS_REG(kind, key, value) {
+  if (kind === 'index') { LSDATA.index = value; }
+  else if (kind === 'search') { LSDATA.search = value; }
+  else { LSDATA[kind][key] = value; }
+}
+</script>
+<script src="data/index.js"></script>
+<script src="app.js"></script>
+<script src="pwa.js"></script>
+</body>
+</html>
