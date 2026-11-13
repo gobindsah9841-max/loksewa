@@ -16,9 +16,10 @@ The study book in [`../study-book/`](../study-book/README.md), packed as an Andr
 The link gives the file that is on the `main` branch of the repository, so it shows a new version only after that
 version has been merged into `main`.
 
-> **Version 1.15 and later cannot be installed over version 1.14 or older.** The key that signed the older files was
-> lost (section 8). If an older version is on your phone, remove it first and then install the new file.
-> Scores saved in the old app are lost.
+> **Remove the old app before you install a new version.** The key that signs the file is kept only on the build
+> machine, and that machine has been replaced before each of the last two versions (section 8). So version 1.16
+> cannot be installed over version 1.15 or older: remove the old app first, then install the new file.
+> Scores saved in the old app are lost. The web app has no such problem.
 
 <img src="release/download-qr.png" alt="QR code of the download link" width="240">
 
@@ -61,7 +62,7 @@ install the app, and turn it on again. Other makers may show their own extra war
 
 **To update later:** install the new file over the old one. Your scores stay.
 If Android says *App not installed*, remove the old app first and install again (the scores are then lost).
-This is certain to happen once: going from version 1.14 or older to version 1.15 or newer (section 8).
+This has happened at each of the last two versions, 1.15 and 1.16, and may happen again (section 8).
 
 **A rule that is coming.** Google now asks app makers to register their identity. Since 30 September 2026 this applies in
 Brazil, Indonesia, Singapore and Thailand, and Google has said it will apply everywhere from 2027. This app is signed with a
@@ -85,11 +86,11 @@ Every question keeps the label it has in the book. All of them are practice ques
 
 The app holds exactly what is in `study-book/` on the day it is built. `release/BUILD-INFO.md` gives the numbers.
 
-Version 1.15 (12 November 2026) holds **Parts 1–15: the four front Parts and Chapters 1–11, with 770 MCQs and
-154 short-answer questions.** Chapters 10 and 11, Koshi and Madhesh, are the first two of the seven province chapters.
-Earlier builds: version 1.12 stopped at Chapter 8, version 1.13 at Chapter 9 and version 1.14 at Chapter 10.
-The other five province chapters and the mental-ability chapter are not written yet, so the timed test has
-General Knowledge questions only.
+Version 1.16 (13 November 2026) holds **Parts 1–16: the four front Parts and Chapters 1–12, with 830 MCQs and
+166 short-answer questions.** Chapters 10, 11 and 12 — Koshi, Madhesh and Bagmati — are the first three of the seven
+province chapters. Earlier builds: version 1.12 stopped at Chapter 8, version 1.13 at Chapter 9, version 1.14 at
+Chapter 10 and version 1.15 at Chapter 11. The other four province chapters and the mental-ability chapter are not
+written yet, so the timed test has General Knowledge questions only.
 
 The facts are as dated in each chapter. The app does not update itself: build it again after the book changes.
 
@@ -190,9 +191,11 @@ Android accepts an update only if it is signed with the same key as the installe
 - If you build the app yourself from this repository, the build makes a new key for you. Your file works, but it
   cannot be installed over the published one: remove the old app first (its saved scores are then lost).
   The same happens to the next published version if the original key is ever lost.
-- **This has happened once.** The key that signed versions 1.12 to 1.14 was kept only on the build machine, and that
-  machine was replaced on 12 November 2026. Version 1.15 is signed with a new key (its fingerprint is in
-  `release/BUILD-INFO.md`). It can happen again for the same reason. The web app has no such problem.
+- **This has happened twice.** The key that signed versions 1.12 to 1.14 was kept only on the build machine, and that
+  machine was replaced on 12 November 2026; version 1.15 was signed with a new key. The machine was replaced again on
+  13 November 2026, so version 1.16 is signed with another new key (its fingerprint is in `release/BUILD-INFO.md`).
+  It will happen again for the same reason until a key is kept in a safe place outside the build machine. The key
+  is not put into this repository, because the repository is public. The web app has no such problem.
 - Before giving the app to many people, make a key with a strong password and keep it safe:
 
 ```bash

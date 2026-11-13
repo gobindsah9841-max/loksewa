@@ -23,8 +23,9 @@ The order follows the book plan (A to L), then the syllabus-mandated additions.
 | 9 | 13 | 9 Current Affairs | ✅ Written |
 | 10 | 14 | 10 Koshi Province | ✅ Written |
 | 11 | 15 | 11 Madhesh Province | ✅ Written |
-| 12 | 16 | 12 Bagmati Province | ⏳ Next |
-| 13–16 | 17–20 | 13–16 Province chapters, Gandaki to Sudurpashchim | ◻ |
+| 12 | 16 | 12 Bagmati Province | ✅ Written |
+| 13 | 17 | 13 Gandaki Province | ⏳ Next |
+| 14–16 | 18–20 | 14–16 Province chapters, Lumbini to Sudurpashchim | ◻ |
 | 17 | 21 | 17 Public Management and Office Management | ◻ |
 | 18 | 22 | 18 Mental Ability | ◻ |
 | 19–21 | 23–25 | 19 Universe and World Geography; 20 World History; 21 Nepali and English | ◻ |
@@ -157,7 +158,7 @@ Every province chapter follows one template, so that provinces can be compared.
 |---|---|---|---|
 | 10 ✅ | Koshi | Separate unit 1.5 (2 questions) | Provincial periodic plan is also named in unit 1.10 |
 | 11 ✅ | Madhesh | No separate unit: eleven units only (unit titles not read) | Province facts may be asked inside the geography, history, society, economy and current-affairs units |
-| 12 | Bagmati | No separate unit noted | Useful as national GK |
+| 12 ✅ | Bagmati | No separate unit, and no unit of Paper I names the province (unit titles re-read) | Unit 1.7.1 asks for population and poverty by province; unit 1.8 for Federation, Province and local level; Paper II asks for the periodic plan of Bagmati Province |
 | 13 | Gandaki | Inside geography and culture units | — |
 | 14 | Lumbini | Separate unit 1.12 (2 questions as read; possibly 3) | The wording of the unit will be re-read when the chapter is written |
 | 15 | Karnali | Inside history and economy units | Khas kingdom, Sinja civilisation; crops, herbs, mines |
@@ -203,6 +204,26 @@ Every province chapter follows one template, so that provinces can be compared.
 7. Add up the reported sources of a provincial budget. In Madhesh they reach the total only without the conditional grant, so a "share of grants" worked out from two press figures may not compare like with like (a note was added to Chapter 5).
 8. When an event is due within days of writing — here a vote of confidence — write "result not known" in the table of open matters instead of guessing.
 9. Write the share of the harder question forms to fit the province's own rule.
+
+### Chapter 12 — Bagmati Province ✅
+
+| Item | Detail |
+|---|---|
+| Syllabus units | Bagmati has twelve general-knowledge units (40 questions) and three mental-ability units (10). The unit titles were read again on 13 November 2026 from a third-party copy. No unit of Paper I names the province; Paper II, Section A, item 5 asks for "basic knowledge of the periodic plan of Bagmati Province". No other province's syllabus names Bagmati Province |
+| Priority | High for Bagmati candidates. Candidates of the other provinces need topic 12.7 only |
+| Topics | 12.1 Profile of the province · 12.2 Physical geography · 12.3 History and archaeology · 12.4 Society and culture · 12.5 Economy · 12.6 Government and institutions · 12.7 The province in numbers and superlatives; fact sheet |
+| Questions | 35 in topics + 25 at chapter end = 60 MCQs; 7 + 5 = 12 short-answer questions. The Bagmati scheme shows no split into levels, so 40 of the 60 MCQs are plain four-option questions and 20 are in the other official forms |
+| Facts checked on | 13 November 2026 (27 Kartik 2083) |
+| Special care | The figures already given in Chapters 1 to 11 are kept the same. District areas and populations were checked against an encyclopaedia list and add to the provincial totals; the split of local levels by district is from memory and adds to the totals. The province's official profile and the sites of the Chief Minister's office and of the Province Public Service Commission were read; the plan file and the full budget speech were not |
+| Facts to re-check under UPDATE | The Chief Minister, the ministers and the number of ministries; the election of a Speaker; party seats and the six vacant seats; the Province Chief; the Public Service Commission's office-bearers; the economy's figures for the next year; the budget of 2084/85; the targets of the second periodic plan; the losses of the Bhote Koshi flood; any revision of the syllabus; the date of the Assembly election due in 2084 |
+
+**What the third province chapter added — to be followed in Chapters 13 to 16**
+
+10. Read the province's own profile on its official portal (or a copy of it). It gives the "official" answers for the highest and lowest points, rivers, lakes and forts — and it may differ from other lists, so mark the differences ⚖️.
+11. Check every office before naming a holder. In Bagmati the Speaker's post turned out to be vacant for more than a year, and an encyclopaedia page still named the former Speaker.
+12. Look in **Paper II** of the province's syllabus as well. Bagmati's Paper I does not name the province, but its Paper II asks for the provincial periodic plan.
+13. A budget is presented by one government and may be carried out by another. Name the minister and the Chief Minister of the day of presentation.
+14. Where two readings of a syllabus table differ, give both and say which one fits the printed total.
 
 ---
 
@@ -255,12 +276,13 @@ These three lists are a working plan built from the usual question types of the 
 
 1. Current affairs after 11 November 2026. Chapter 9 now covers May 2025 to 11 November 2026. Still open when it was written, and to be picked up by **UPDATE** or by the province chapters: the Prime Minister's visit to India (planned for 22–25 November 2026); the next Secretary-General of the United Nations; the outcome of COP31 and of the G20 summit of December 2026; the war on Iran; the new government of Israel; the final of the third season of the Nepal Premier League; the Tenth National Games in Karnali; a new Province Chief of Koshi (still not found on 12 November 2026); a Chairperson of the Public Service Commission; any Bill to amend the Constitution; the dates of the elections of 2084; the final figures of the Bhote Koshi flood.
 2. Budget Speech for fiscal year 2083/84 and the Economic Survey 2082/83 — used in Chapters 4 and 5 through news reports; the official documents are still to be opened.
-3. The current periodic plan and the provincial periodic plans — covered in Chapter 5; the vision of Sudurpashchim's plan and the final text of Bagmati's second plan are still to be confirmed. Koshi's two vision statements were sorted out in Chapter 10, from press reports; the plan document itself is still to be read.
+3. The current periodic plan and the provincial periodic plans — covered in Chapter 5; the vision of Sudurpashchim's plan is still to be confirmed. Bagmati's second plan was approved on 32 Jestha 2081, and its vision is given in Chapter 12 from the official site of the Chief Minister's office; the plan file and its number targets are still to be read. Koshi's two vision statements were sorted out in Chapter 10, from press reports; the plan document itself is still to be read.
 4. Federal and provincial governments and office-holders as they stand now, with the new names of the 18 ministries (Chapter 7 gives four of them).
 5. Status of graduation from the least-developed-country category — settled for now: on 29 October 2026 the United Nations General Assembly moved it from 24 November 2026 to 24 November 2029 (Chapter 5, topic 5.10).
 6. Open syllabus items listed in Part 2, section 2.12. The titles of the Madhesh units were looked for again on 12 November 2026, while Chapter 11 was written, and are still unread: the official file opens only in a viewer and the page image with the titles could not be opened.
 7. Koshi Province, left open by Chapter 10: a new Province Chief; a new chairperson of the Province Public Service Commission; the remaining 14 percent of the budget of 2083/84; district populations against the census tables; the later course of the Pathibhara cable car.
 8. Madhesh Province, left open by Chapter 11: the result of the vote of confidence of 28 Kartik 2083; the ministers and the number of ministries; the text and the number targets of the second periodic plan; the budget speech, to settle whether the total of Rs 41.14 billion includes the conditional grant; the vision of the first plan; the result of the House seat Dhanusha–1.
-9. Any official question paper or answer key that can be verified (Part 3, section 3.9).
+9. Bagmati Province, left open by Chapter 12: the election of a Speaker; the outcome of the writ against the appointment of the Chief Minister; who holds the Ministry of Internal Affairs, Law and Cooperatives; why six seats of the Assembly are vacant; the Chief Attorney; the number targets of the second periodic plan; the final toll of the Bhimphedi accident of 26 Kartik 2083; whether the syllabus of 2077/09/12 has been revised.
+10. Any official question paper or answer key that can be verified (Part 3, section 3.9).
 
 *End of Part 4.*
