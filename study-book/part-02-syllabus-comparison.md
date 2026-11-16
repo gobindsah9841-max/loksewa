@@ -12,7 +12,7 @@
 |---|---|---|---|---|---|
 | **Koshi** | Biratnagar | Official PDF — Assistant 5th Level, non-technical | Effective **2081/08/23 BS** (8 Dec 2024) | Official PDF text | **High.** The verbal / quantitative / non-verbal split of mental ability was not legible. |
 | **Madhesh** | Janakpurdham | The official listing dated **24 Mangsir 2082** (10 Dec 2025) is shown only in an embedded viewer and could **not** be opened. A third-party page-image copy was read instead. Its pages are headed "प्रदेश लोक सेवा आयोग, प्रदेश नं. २". | Effective **2078/04/27 BS** (11 Aug 2021) | Clear page images — pages 1, 2 and 4 | **Medium.** Scheme, rules and question allocation were read clearly. Page 3 (the wording of the GK units) was not seen. The copy appeared on the web a few days after the official listing, which supports — but does not prove — that it is the same file. |
-| **Bagmati** | Hetauda | Third-party copies: a PDF copy (2020) and a page image (2022). The official site was not re-checked for a later revision. | Effective **2077/09/12 BS** (27 Dec 2020) | PDF text + page image | **Medium.** The scheme was confirmed twice. Unit-wise GK counts add to 41 instead of 40, so one count is misread. |
+| **Bagmati** | Hetauda | Third-party copies: a PDF copy (2020) and a page image (2022). The PDF copy was read again in full on 13 November 2026 (Chapter 12). The official site opened that day, but its list of syllabi could not be reached, so a later revision is not ruled out. | Effective **2077/09/12 BS** (27 Dec 2020) | PDF text + page image | **Medium.** The scheme was confirmed three times. Unit-wise GK counts as first read add to 41 instead of 40; the misread count is most likely that of unit 1.5 (see section 2.6.3). |
 | **Gandaki** | Pokhara | Official PDF — 5th Level, non-technical | Effective date left **blank** in the copy read | Official PDF text | **High** for format and content. |
 | **Lumbini** | Butwal | Official PDF — 5th Level administration, open competition | Approved **2081/09/24 BS** (8 Jan 2025) | Official PDF text | **High** for format. The last three GK unit counts and the mental-ability split are ambiguous. A syllabus-revision notice dated **2 Ashoj 2083** (18 Sep 2026) exists on the site as an image and was **not** readable. |
 | **Karnali** | Birendranagar | Official PDF — Senior Administration Assistant, Senior Accounts Assistant, Internal Audit Assistant | **Not legible.** Listed on the commission's site on 8 Baisakh 2083 (21 Apr 2026) | Official PDF text, poor machine reading | **Medium.** The structure is clear. The unit-wise table and the pass mark are not legible. |
@@ -153,7 +153,7 @@ Three further findings change how this book must be used:
 | | **Total printed in the scheme** | **40** |
 | 2.1 / 2.2 / 2.3 | Mental ability | 4 / 3 / 3 = 10 |
 
-‡ The twelve values as read add to **41**, so one of them is over-read by one. The total of 40 and the mental-ability total of 10 are certain.
+‡ The twelve values as read add to **41**, so one of them is over-read by one. The total of 40 and the mental-ability total of 10 are certain. **Second reading, 13 November 2026:** one machine reading of the table gives **5** for unit 1.5 and another gives **4**; all other values agree. With 4 the twelve units add to the printed 40, so unit 1.5 most likely carries **4** questions. The same reading confirmed the unit titles: no unit of Paper I names Bagmati Province, but unit 1.7.1 asks for "the division of population by province" and "the national and provincial state of poverty", and **Paper II, Section A, item 5** asks for "basic knowledge of the periodic plan of Bagmati Province".
 
 ### 2.6.4 Karnali (30 GK questions; unit table not legible)
 
@@ -197,7 +197,7 @@ Only differences noted during the reading are listed. An empty cell does not pro
 | Current affairs | **Bagmati** adds national and international days. |
 | Language | **Koshi**: Nepali 2 + English 2. **Bagmati**: Nepali 3 + English 3 (as read). Not examined elsewhere. |
 | Governance | A GK unit only in **Bagmati** (unit 1.8). |
-| Own province | Separate unit: **Koshi** (1.5), **Lumbini** (1.12). Inside other units: **Gandaki**, **Karnali**, **Sudurpashchim**. **Madhesh**: no separate unit (eleven units only); whether a unit names the province inside its wording is not confirmed. **Bagmati**: no separate unit noted. |
+| Own province | Separate unit: **Koshi** (1.5), **Lumbini** (1.12). Inside other units: **Gandaki**, **Karnali**, **Sudurpashchim**. **Madhesh**: no separate unit (eleven units only); whether a unit names the province inside its wording is not confirmed. **Bagmati**: no separate unit and no unit that names the province (re-read 13 November 2026); the province is named only in Paper II, which asks for its periodic plan. |
 
 ---
 
@@ -269,7 +269,7 @@ Only differences noted during the reading are listed. An empty cell does not pro
 1. **Madhesh** — open the official PDF of 24 Mangsir 2082 and compare it with the Province No. 2 document; read page 3 for the unit wording. *Tried again on 12 November 2026 (Chapter 11): still not possible.*
 2. **Lumbini** — read the revision notice of 2 Ashoj 2083; confirm units 1.10–1.12 and the mental-ability split.
 3. **Karnali** — confirm the effective date, the pass mark and the unit-wise table.
-4. **Bagmati** — confirm on the official site that the 2077/09/12 syllabus is still in force; resolve the 41-versus-40 count.
+4. **Bagmati** — confirm on the official site that the 2077/09/12 syllabus is still in force; confirm that unit 1.5 carries 4 questions, not 5. *Tried on 13 November 2026 (Chapter 12): the site opened but its syllabus list could not be reached.*
 5. **Koshi** — confirm the mental-ability split.
 6. **Gandaki** — confirm the effective date.
 

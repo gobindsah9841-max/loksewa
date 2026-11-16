@@ -2,7 +2,7 @@
 
 **Book:** Provincial Public Service Commission (प्रदेश लोक सेवा आयोग) — 5th Level, Non-Technical — Paper I Complete Study Book
 **Covers:** all seven provinces — Koshi, Madhesh, Bagmati, Gandaki, Lumbini, Karnali, Sudurpashchim
-**Edition date:** 12 November 2026 (26 Kartik 2083 BS)
+**Edition date:** 13 November 2026 (27 Kartik 2083 BS)
 
 This index lists every Part of the book, the file that holds it, and whether it has been written. The live status is kept in [`README.md`](README.md).
 
@@ -52,8 +52,8 @@ This index lists every Part of the book, the file that holds it, and whether it 
 |---|---|---|---|---|---|
 | 14 | 10 | Koshi Province | High for Koshi candidates | `part-14-chapter-10-koshi-province.md` | ✅ Written |
 | 15 | 11 | Madhesh Province | High for Madhesh candidates | `part-15-chapter-11-madhesh-province.md` | ✅ Written |
-| 16 | 12 | Bagmati Province | High for Bagmati candidates | `part-16-chapter-12-bagmati-province.md` | ⏳ Next |
-| 17 | 13 | Gandaki Province | High for Gandaki candidates | `part-17-chapter-13-gandaki-province.md` | ◻ Pending |
+| 16 | 12 | Bagmati Province | High for Bagmati candidates | `part-16-chapter-12-bagmati-province.md` | ✅ Written |
+| 17 | 13 | Gandaki Province | High for Gandaki candidates | `part-17-chapter-13-gandaki-province.md` | ⏳ Next |
 | 18 | 14 | Lumbini Province | High for Lumbini candidates | `part-18-chapter-14-lumbini-province.md` | ◻ Pending |
 | 19 | 15 | Karnali Province | High for Karnali candidates | `part-19-chapter-15-karnali-province.md` | ◻ Pending |
 | 20 | 16 | Sudurpashchim Province | High for Sudurpashchim candidates | `part-20-chapter-16-sudurpashchim-province.md` | ◻ Pending |
@@ -248,6 +248,19 @@ This index lists every Part of the book, the file that holds it, and whether it 
 | 11.5 | Economy |
 | 11.6 | Government and institutions |
 | 11.7 | The province in numbers and superlatives; fact sheet |
+| — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
+
+### Chapter 12 — Bagmati Province (Part 16)
+
+| Topic | Title |
+|---|---|
+| 12.1 | Profile of the province |
+| 12.2 | Physical geography |
+| 12.3 | History and archaeology |
+| 12.4 | Society and culture |
+| 12.5 | Economy |
+| 12.6 | Government and institutions |
+| 12.7 | The province in numbers and superlatives; fact sheet |
 | — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
 
 The topic lists planned for the remaining chapters are in Part 4.
