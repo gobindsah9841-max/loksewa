@@ -1179,7 +1179,7 @@ Taken together, the province is small in output — about 9 percent of Nepal's �
 
 **Social activities (सामाजिक क्रियाकलाप)**
 
-- **Education:** literacy 81.7 percent; Pokhara is a university town (Pokhara University; the province's own Gandaki University; large campuses).
+- **Education:** literacy 81.7 percent, and the province has been declared a "literate province" (Chapter 6); Pokhara is a university town (Pokhara University; the province's own Gandaki University; large campuses).
 - **Health:** teaching hospitals in Pokhara; at the end of the first plan 77 percent of the people lived within 30 minutes of a health facility and 71 percent of births took place in one.
 - **Services:** drinking water for 95 percent; internet for 65 percent. The province was declared free of open defecation in 2074.
 - **Groups:** mothers' groups, cooperatives, community forest user groups, youth clubs.

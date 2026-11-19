@@ -13,7 +13,7 @@
 | **Koshi** | Biratnagar | Official PDF — Assistant 5th Level, non-technical | Effective **2081/08/23 BS** (8 Dec 2024) | Official PDF text | **High.** The verbal / quantitative / non-verbal split of mental ability was not legible. |
 | **Madhesh** | Janakpurdham | The official listing dated **24 Mangsir 2082** (10 Dec 2025) is shown only in an embedded viewer and could **not** be opened. A third-party page-image copy was read instead. Its pages are headed "प्रदेश लोक सेवा आयोग, प्रदेश नं. २". | Effective **2078/04/27 BS** (11 Aug 2021) | Clear page images — pages 1, 2 and 4 | **Medium.** Scheme, rules and question allocation were read clearly. Page 3 (the wording of the GK units) was not seen. The copy appeared on the web a few days after the official listing, which supports — but does not prove — that it is the same file. |
 | **Bagmati** | Hetauda | Third-party copies: a PDF copy (2020) and a page image (2022). The PDF copy was read again in full on 13 November 2026 (Chapter 12). The official site opened that day, but its list of syllabi could not be reached, so a later revision is not ruled out. | Effective **2077/09/12 BS** (27 Dec 2020) | PDF text + page image | **Medium.** The scheme was confirmed three times. Unit-wise GK counts as first read add to 41 instead of 40; the misread count is most likely that of unit 1.5 (see section 2.6.3). |
-| **Gandaki** | Pokhara | Official PDF — 5th Level, non-technical | Effective date left **blank** in the copy read | Official PDF text | **High** for format and content. |
+| **Gandaki** | Pokhara | Official PDF — 5th Level, non-technical. Read again on 19 November 2026 (Chapter 13) | Effective date left **blank** in the file, on both readings | Official PDF text | **High** for format and content. The English version printed in the file leaves out the two sub-units on the province (1.3.5 and 1.6.3); the Nepali text has them. |
 | **Lumbini** | Butwal | Official PDF — 5th Level administration, open competition | Approved **2081/09/24 BS** (8 Jan 2025) | Official PDF text | **High** for format. The last three GK unit counts and the mental-ability split are ambiguous. A syllabus-revision notice dated **2 Ashoj 2083** (18 Sep 2026) exists on the site as an image and was **not** readable. |
 | **Karnali** | Birendranagar | Official PDF — Senior Administration Assistant, Senior Accounts Assistant, Internal Audit Assistant | **Not legible.** Listed on the commission's site on 8 Baisakh 2083 (21 Apr 2026) | Official PDF text, poor machine reading | **Medium.** The structure is clear. The unit-wise table and the pass mark are not legible. |
 | **Sudurpashchim** | Dhangadhi | Official PDF (curriculum no. 395) — Administration (General Administration, Accounts, Revenue), Judicial and Audit services | Effective **2079/08/21 BS** (7 Dec 2022) | Official PDF text | **High.** |
@@ -186,10 +186,10 @@ Only differences noted during the reading are listed. An empty cell does not pro
 | Theme | Province-specific points read |
 |---|---|
 | Universe and world geography | A separate unit in Gandaki, Lumbini, Karnali and Sudurpashchim. **Karnali** adds eclipses and seasons. **Koshi** places world geography inside unit 1.1. |
-| Geography of Nepal | **Gandaki** and **Sudurpashchim** add sub-units on their own province. |
+| Geography of Nepal | **Gandaki** and **Sudurpashchim** add sub-units on their own province. Gandaki's is sub-unit 1.3.5: the economic and social activities of Gandaki Province and the variety in ways of earning a living (re-read 19 November 2026). |
 | World history | **Koshi** and **Karnali**: Magna Carta, Industrial Revolution, First and Second World Wars. **Gandaki** adds the French, American and Russian revolutions and the Indian independence movement; **Lumbini** and **Sudurpashchim** follow the same unit structure as Gandaki. |
 | History of Nepal | **Karnali** adds the medieval **Khas kingdom** and the **Sinja civilisation**, the Shah dynasty, and events since 2007 BS. **Lumbini** names the Malla period. **Koshi**: ancient period to the present. |
-| Society and culture | **Gandaki** and **Sudurpashchim** add sub-units on their own province. |
+| Society and culture | **Gandaki** and **Sudurpashchim** add sub-units on their own province. Gandaki's is sub-unit 1.6.3: the special customs, traditions, values and norms, religions, peoples, languages, culture, art, literature and music of Gandaki Province (re-read 19 November 2026). |
 | Economy | **Karnali**: periodic plans, budget, **revenue jurisdiction of the three tiers**; crops, herbs and mines of Karnali. **Koshi**: a second economy unit on national and provincial periodic plans and the SDGs. **Sudurpashchim**: a provincial sub-unit. |
 | Science, technology and health | **Gandaki, Koshi, Lumbini and Bagmati**: everyday materials — soap, plastic, fibre, glass, fertiliser, pesticide (re-read on 11 November 2026; the Sudurpashchim list read has three sub-units and does not name them). **Karnali**: electronic service delivery, cyber security, e-governance. **Bagmati**: education and health form a separate unit, which also names mortality and malnutrition indicators, yoga and exercise, epidemics and COVID-19; its science unit includes the solar system, the earth, and the internet and computer. |
 | Environment | **Karnali**: Sustainable Development Goals and carbon trade. **Bagmati**: population, environment and disaster management in one unit; it also names carbon trade, waste management, deforestation, soil erosion, the Sustainable Development Goals, and earthquake, flood and landslide, storm, fire and road accidents. **Gandaki, Koshi, Lumbini, Sudurpashchim**: ecosystem and the biogeochemical cycle; sustainable development, biodiversity, rare animals, birds and plants, global warming, climate change, greenhouse effect, ozone depletion, pollution, population, urbanisation, migration. |
@@ -197,7 +197,7 @@ Only differences noted during the reading are listed. An empty cell does not pro
 | Current affairs | **Bagmati** adds national and international days. |
 | Language | **Koshi**: Nepali 2 + English 2. **Bagmati**: Nepali 3 + English 3 (as read). Not examined elsewhere. |
 | Governance | A GK unit only in **Bagmati** (unit 1.8). |
-| Own province | Separate unit: **Koshi** (1.5), **Lumbini** (1.12). Inside other units: **Gandaki**, **Karnali**, **Sudurpashchim**. **Madhesh**: no separate unit (eleven units only); whether a unit names the province inside its wording is not confirmed. **Bagmati**: no separate unit and no unit that names the province (re-read 13 November 2026); the province is named only in Paper II, which asks for its periodic plan. |
+| Own province | Separate unit: **Koshi** (1.5), **Lumbini** (1.12). Inside other units: **Gandaki** (sub-units 1.3.5 and 1.6.3, printed in the Nepali text only; Paper II and Paper III name the province again), **Karnali**, **Sudurpashchim**. **Madhesh**: no separate unit (eleven units only); whether a unit names the province inside its wording is not confirmed. **Bagmati**: no separate unit and no unit that names the province (re-read 13 November 2026); the province is named only in Paper II, which asks for its periodic plan. |
 
 ---
 
@@ -209,7 +209,7 @@ Only differences noted during the reading are listed. An empty cell does not pro
 
 **Bagmati** — 40 GK + 10 mental ability. The broadest GK syllabus: governance, education and health, disaster management and two language units. Mental ability is only one fifth of the paper. Marks count in the merit list.
 
-**Gandaki** — 30 GK + 20 mental ability; Level I 60%, Level II 40%. Gandaki content sits inside the geography and culture units. Marks count in the merit list.
+**Gandaki** — 30 GK + 20 mental ability; Level I 60%, Level II 40%. Gandaki content sits inside the geography and culture units: sub-unit 1.3.5 (economy and ways of living) and sub-unit 1.6.3 (society and culture); see Chapter 13. Marks count in the merit list.
 
 **Lumbini** — 30 GK + 20 mental ability; a separate Lumbini Province unit. **Screening test: pass mark 45%, marks not carried forward.** Laws are taken as at the date of advertisement. *Check the revision notice of 2 Ashoj 2083.*
 
@@ -271,7 +271,7 @@ Only differences noted during the reading are listed. An empty cell does not pro
 3. **Karnali** — confirm the effective date, the pass mark and the unit-wise table.
 4. **Bagmati** — confirm on the official site that the 2077/09/12 syllabus is still in force; confirm that unit 1.5 carries 4 questions, not 5. *Tried on 13 November 2026 (Chapter 12): the site opened but its syllabus list could not be reached.*
 5. **Koshi** — confirm the mental-ability split.
-6. **Gandaki** — confirm the effective date.
+6. **Gandaki** — confirm the effective date. *Read again on 19 November 2026 (Chapter 13): the official file still prints the date of force blank, and its English version omits sub-units 1.3.5 and 1.6.3.*
 
 ---
 

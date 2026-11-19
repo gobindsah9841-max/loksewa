@@ -808,7 +808,7 @@ No single group is a majority. The four largest — Tamang, Brahman (Hill), Chhe
 
 - **Nepali** about 56 percent; **Tamang** about 18 percent; **Nepal Bhasa** about 12 percent.
 - Then Magar, Tharu, Maithili, Bhojpuri, Gurung and Chepang, each between 1 and 2.5 percent.
-- 🔄 **Official languages:** under the Province Official Language Act, 2080, **Tamang and Nepal Bhasa** are used in government beside Nepali. They came into use on **24 Baisakh 2081 (6 May 2024)**. Bagmati was the **first** province to do this, and it keeps the day as a language day with a provincial holiday. Koshi followed on 25 Kartik 2083 with thirteen languages (Chapter 6).
+- 🔄 **Official languages:** under the Province Official Language Act, 2080, **Tamang and Nepal Bhasa** are used in government beside Nepali. They came into use on **24 Baisakh 2081 (6 May 2024)**. Bagmati was the **first** province to do this, and it keeps the day as a language day with a provincial holiday. Gandaki followed with a law for Magar and Gurung (Bill passed on 24 Ashad 2082), and Koshi on 25 Kartik 2083 with thirteen languages (Chapters 6 and 13).
 
 **Religion** (Census 2078, encyclopaedia figures)
 
@@ -921,7 +921,7 @@ No single group is a majority. The four largest — Tamang, Brahman (Hill), Chhe
 
 | Province | Link |
 |---|---|
-| Koshi | Literacy 79.7 percent; the second province to use its own languages in government — thirteen of them, from 25 Kartik 2083; its Sagarmatha National Park is a World Heritage Site like Chitwan |
+| Koshi | Literacy 79.7 percent; it too now uses its own languages in government — thirteen of them, from 25 Kartik 2083 (Gandaki's law for Magar and Gurung, of 2082, came between Bagmati's and Koshi's); its Sagarmatha National Park is a World Heritage Site like Chitwan |
 | Madhesh | Almost the same number of people, but the lowest literacy (63.5 percent); Nepali is the mother tongue of about 6 percent there against about 56 percent here |
 | Bagmati | Tamang about 20 percent, the largest group; Nepali about 56 percent; literacy 82.1 percent; Tamang and Nepal Bhasa official since 24 Baisakh 2081; two World Heritage properties |
 | Gandaki | Second in literacy (81.7 percent); Gurung and Magar country — Tamu Lhosar there, Sonam Lhosar here; Manakamana, reached by cable car from Chitwan |
@@ -1447,7 +1447,7 @@ Because the Assembly has 110 seats, a party needs **56** to rule alone. That hap
 | Province | Link |
 |---|---|
 | Koshi | 93 seats; Chief Minister Hikmat Kumar Karki (CPN (UML)) kept his post in 2083 by changing partners and won a vote of confidence on 8 Bhadra 2083, the day before Bagmati's |
-| Madhesh | 107 seats; Chief Minister Krishna Prasad Yadav (Nepali Congress) faces a vote of confidence on 28 Kartik 2083; like Bagmati it has had many short governments |
+| Madhesh | 107 seats; Chief Minister Krishna Prasad Yadav (Nepali Congress) resigned on 28 Kartik 2083 instead of facing a vote of confidence; like Bagmati it has had many short governments |
 | Bagmati | 110 seats; seven Chief Ministers since 2074; Kiran Thapa Magar (CPN (UML)) since 4 Bhadra 2083 under Article 168 (2); Speaker's post vacant; eight ministries |
 | Gandaki | 60 seats; Chief Minister Surendra Raj Pandey (Nepali Congress) |
 | Lumbini | 87 seats; Chief Minister Chet Narayan Acharya (CPN (UML)) |

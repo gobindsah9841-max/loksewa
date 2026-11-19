@@ -23,7 +23,7 @@
 
 **A note on the syllabus.** The Madhesh examination has 50 questions in Paper I: 30 of general knowledge and 20 of mental ability, 2 marks each, in 45 minutes. As far as possible 18 of the 30 general-knowledge questions are plain four-option questions (Level I) and 12 are of the harder kinds (Level II): true or false statements, matching, fill in the blank, cause and effect, odd one out. This chapter therefore gives about four questions in ten in those harder forms. Paper II (the written paper of the second phase) has a section on "Nepal's geographic, social and economic condition"; none of its items names the province, but the facts of this chapter can be used as examples in its answers.
 
-**A note on how to study a province chapter.** Learn the fact sheet in topic 11.7 by heart. Read topics 11.1 to 11.6 once to understand it. Topic 11.6 changes fastest: three new Chief Ministers took office between Ashoj and Mangsir 2082, and a vote of confidence is due two days after this chapter was written.
+**A note on how to study a province chapter.** Learn the fact sheet in topic 11.7 by heart. Read topics 11.1 to 11.6 once to understand it. Topic 11.6 changes fastest: three new Chief Ministers took office between Ashoj and Mangsir 2082, and a vote of confidence was due two days after this chapter was written. **Update of 19 November 2026:** in the sitting called for that vote, on 28 Kartik 2083, the Chief Minister resigned (see topic 11.6).
 
 **A note on names.** The province was called **Province No. 2** (प्रदेश नं. २) until 2078 BS. Its official name is written **मधेश प्रदेश**; newspapers also write मधेस. The capital is written Janakpur or **Janakpurdham** (जनकपुरधाम); this book uses Janakpurdham for the city and capital. Other spellings you will meet: Dhanusha (Dhanusa), Mahottari (Mahotari), Malangwa (Malangawa), Birgunj (Birganj), Jitpur Simara (Jeetpur Simara), Simraungadh (Simroungarh). The examination is in Nepali, so learn the Nepali spellings given in topic 11.1.
 
@@ -31,7 +31,7 @@
 
 | Matter | Position on 12 November 2026 |
 |---|---|
-| Vote of confidence of Chief Minister Krishna Prasad Yadav | Fixed for 28 Kartik 2083 (14 November 2026) at 1 pm, after two partner parties left the government. **The result was not known when this chapter was written** |
+| Vote of confidence of Chief Minister Krishna Prasad Yadav | **Updated on 19 November 2026.** The vote was fixed for 28 Kartik 2083 (14 November 2026), after two partner parties left the government. In that sitting the Chief Minister **announced his resignation**; no vote was taken. The Province Chief accepted the resignation the same day (Article 169 (1) (a)); the Council of Ministers stays in office until a new one is formed (Article 169 (3)). Claims to form a government under Article 168 (2) were called by 4 Mangsir 2083 (20 November 2026). **On 19 November 2026 no successor had been appointed** |
 | Council of Ministers | Eight ministers of two parties resigned between Ashoj and Kartik 2083. Who held which ministry on 12 November was not checked |
 | Number of ministries | 12, counting the Chief Minister's office. A task force advised 9 on 18 Ashad 2083. No report that the change was made was found |
 | Party seats in the Assembly | As reported on 25 Kartik 2083: Janata Samajbadi Party Nepal 27, CPN (UML) 23, Nepali Congress 22, Nepali Communist Party 15, Janamat Party 12, two parties with 1 each. The figures change when parties unite or members are suspended |
@@ -62,7 +62,7 @@
 | Office | Holder |
 |---|---|
 | Province Chief (प्रदेश प्रमुख) | Dr Surendra Labh Karna, since 25 Kartik 2082 (11 November 2025) |
-| Chief Minister (मुख्यमन्त्री) | Krishna Prasad Yadav, Nepali Congress, since 19 Mangsir 2082 (5 December 2025); a vote of confidence is due on 28 Kartik 2083 |
+| Chief Minister (मुख्यमन्त्री) | Krishna Prasad Yadav, Nepali Congress, appointed on 19 Mangsir 2082 (5 December 2025). **He resigned on 28 Kartik 2083 (14 November 2026)** and stays as caretaker until a successor is appointed; none had been appointed on 19 November 2026 |
 | Speaker of the Provincial Assembly (सभामुख) | Ram Ashish Yadav, Janata Samajbadi Party Nepal, elected on 6 Poush 2082 (21 December 2025) |
 | Deputy Speaker (उपसभामुख) | Babita Kumari Raut Ishar, Janamat Party |
 | Largest party in the Assembly | Janata Samajbadi Party Nepal, 27 seats as reported; it is in opposition |
@@ -1458,7 +1458,9 @@ Two different men named **Saroj Kumar Yadav** have been Chief Minister: one from
 - The three ruling parties signed a **15-point agreement**; the Council of Ministers was completed on 12 Jestha 2083 (26 May 2026).
 - **30 Ashoj 2083 (16 October 2026):** the CPN (UML) withdrew its support, saying the 15-point agreement had not been carried out; its four ministers resigned. (A later news-agency summary gives 25 Ashoj ⚖️.)
 - **20 Kartik 2083 (6 November 2026):** the Nepali Communist Party withdrew; its four ministers resigned, among them the Minister for Economic Affairs, Yuvaraj Bhattarai.
-- **Third vote of confidence: fixed for 28 Kartik 2083 (14 November 2026).** The Nepali Congress has 22 seats; 54 are needed. **The result was not known when this chapter was written.**
+- **Third vote of confidence: fixed for 28 Kartik 2083 (14 November 2026) — not taken.** The Nepali Congress has 22 seats; 54 are needed when all 107 seats are filled (a report of that week counts 102 members in office, so that 52 would be enough ⚖️).
+- **Resignation, 28 Kartik 2083 (14 November 2026):** in the sitting called for the vote, the Chief Minister **announced his resignation**. Province Chief Surendra Labh Karna accepted it the same day under Article 169 (1) (a). Under Article 169 (3) the same Council of Ministers carries on until a new one is formed.
+- The Province Chief called on members to claim the post under Article 168 (2) by 4 Mangsir 2083 (20 November 2026). On 19 November 2026 the parties had not agreed, and **no successor had been appointed** (updated on 19 November 2026).
 
 **Province Chiefs** (six so far, as listed on an encyclopaedia page)
 
@@ -1546,7 +1548,7 @@ The party names changed between the two elections. The Forum and the Rastriya Ja
 |---|---|---|
 | 4 Poush 2082 (19 December 2025) | After appointment under Article 168 (2) | 92 for, of 92 present |
 | 8 Jestha 2083 (22 May 2026) | After the Janamat Party left and partners changed | 62 for, 36 against |
-| 28 Kartik 2083 (14 November 2026) | After the CPN (UML) and the Nepali Communist Party left | Not known when written |
+| 28 Kartik 2083 (14 November 2026) | After the CPN (UML) and the Nepali Communist Party left | **No vote** — he resigned in the sitting |
 
 **Budget for 2083/84** 🔄
 
@@ -1591,7 +1593,7 @@ The party names changed between the two elections. The Forum and the Rastriya Ja
 | Shrawan 2083 | Violence and curfews in Siraha, Saptari and Dhanusha |
 | 30 Ashoj 2083 (16 October 2026) | CPN (UML) leaves the government |
 | 20 Kartik 2083 (6 November 2026) | Nepali Communist Party leaves the government |
-| 28 Kartik 2083 (14 November 2026) | Vote of confidence due |
+| 28 Kartik 2083 (14 November 2026) | Vote of confidence due; the Chief Minister resigned instead |
 
 #### 5 · Numbers and dates to remember
 
@@ -1721,7 +1723,7 @@ What is the vision of the second periodic plan of Madhesh Province (2081/82–20
 
 **Question.** Why have governments in Madhesh Province been unstable? Explain with the events of 2082 and 2083, and suggest remedies.
 
-**Model answer.** **The fact:** since Falgun 2074 the province has had six Chief Ministers and six Province Chiefs; four persons were Chief Minister in the single year 2082. **Reasons:** (1) **A hung Assembly** — in 2079 the largest party won only 23 of 107 seats, and a majority needs 54, so at least three or four parties must join. (2) **Many parties of nearly equal size** — the UML, the Congress, the Janata Samajbadi, the Janamat and others each hold between 12 and 27 seats, so many different coalitions are possible. (3) **Coalitions made for office, not for a programme** — partners quarrel over ministries; the 15-point agreement of Jestha 2083 broke within five months. (4) **Influence of the centre** — changes of alliance in Kathmandu are copied in Janakpurdham. (5) **Misuse of constitutional offices** — the swearing-in at Bardibas on 24 Kartik 2082 and the removal of the Speaker on 3 Mangsir 2082 show the Province Chief's and the Speaker's offices drawn into party struggle. **Events:** Sonal resigned after 25 days; Saroj Kumar Yadav of the UML resigned before a confidence vote; Krishna Prasad Yadav was appointed on 19 Mangsir 2082, changed partners in Jestha 2083, lost the UML on 30 Ashoj and the Nepali Communist Party on 20 Kartik 2083, and faces a third vote of confidence on 28 Kartik 2083. **Effects:** budgets are spent late, ministers change before they learn their work, and plans such as the cut in ministries are not carried out. **Remedies:** (1) written common programmes and coordination committees for coalitions; (2) respect for the rules — Article 168 followed step by step, a neutral Province Chief and Speaker; (3) fewer ministries and a fixed division of them; (4) stronger party discipline and, in the long run, electoral reform that reduces splintering; (5) a permanent, professional administration that keeps services running whoever governs. **Conclusion:** stability cannot be ordered by law alone; it comes when parties treat the provincial government as a place to deliver development rather than to share posts.
+**Model answer.** **The fact:** since Falgun 2074 the province has had six Chief Ministers and six Province Chiefs; four persons were Chief Minister in the single year 2082. **Reasons:** (1) **A hung Assembly** — in 2079 the largest party won only 23 of 107 seats, and a majority needs 54, so at least three or four parties must join. (2) **Many parties of nearly equal size** — the UML, the Congress, the Janata Samajbadi, the Janamat and others each hold between 12 and 27 seats, so many different coalitions are possible. (3) **Coalitions made for office, not for a programme** — partners quarrel over ministries; the 15-point agreement of Jestha 2083 broke within five months. (4) **Influence of the centre** — changes of alliance in Kathmandu are copied in Janakpurdham. (5) **Misuse of constitutional offices** — the swearing-in at Bardibas on 24 Kartik 2082 and the removal of the Speaker on 3 Mangsir 2082 show the Province Chief's and the Speaker's offices drawn into party struggle. **Events:** Sonal resigned after 25 days; Saroj Kumar Yadav of the UML resigned before a confidence vote; Krishna Prasad Yadav was appointed on 19 Mangsir 2082, changed partners in Jestha 2083, lost the UML on 30 Ashoj and the Nepali Communist Party on 20 Kartik 2083, and, instead of facing a third vote of confidence, resigned on 28 Kartik 2083. **Effects:** budgets are spent late, ministers change before they learn their work, and plans such as the cut in ministries are not carried out. **Remedies:** (1) written common programmes and coordination committees for coalitions; (2) respect for the rules — Article 168 followed step by step, a neutral Province Chief and Speaker; (3) fewer ministries and a fixed division of them; (4) stronger party discipline and, in the long run, electoral reform that reduces splintering; (5) a permanent, professional administration that keeps services running whoever governs. **Conclusion:** stability cannot be ordered by law alone; it comes when parties treat the provincial government as a place to deliver development rather than to share posts.
 
 ---
 
@@ -1823,7 +1825,7 @@ One sentence holds its shape: **one-fifth of Nepal's people live on one-fifteent
 | Seats | House 32; Assembly 107 (64 + 43); National Assembly 8 |
 | High Court | Janakpur; benches at Rajbiraj and Birgunj |
 | First Chief Minister | Lalbabu Raut (2074) |
-| Chief Minister 🔄 | Krishna Prasad Yadav (Nepali Congress), since 19 Mangsir 2082 |
+| Chief Minister 🔄 | Krishna Prasad Yadav (Nepali Congress), 19 Mangsir 2082 – 28 Kartik 2083; resigned, caretaker on 19 November 2026 |
 | Province Chief 🔄 | Dr Surendra Labh Karna, since 25 Kartik 2082 |
 | Speaker 🔄 | Ram Ashish Yadav, since 6 Poush 2082 |
 | Budget 2083/84 🔄 | Rs 41.14 billion |
@@ -2047,7 +2049,7 @@ Lines marked 🔄 hold recent facts. Check them again before your examination.
 **Government**
 - Assembly 107; majority 54; two-thirds 72. 2074: Forum 29, Rastriya Janata 25. 2079: UML 23, Congress 22, Janata Samajbadi 16, Janamat 13.
 - Six Chief Ministers: Lalbabu Raut; Saroj Kumar Yadav (Bara); Satish Kumar Singh; Jitendra Prasad Sonal; Saroj Kumar Yadav (Mahottari); Krishna Prasad Yadav.
-- 🔄 Chief Minister Krishna Prasad Yadav (Nepali Congress), since 19 Mangsir 2082, Article 168 (2); vote of confidence due 28 Kartik 2083.
+- 🔄 Chief Minister Krishna Prasad Yadav (Nepali Congress), from 19 Mangsir 2082, Article 168 (2); **resigned on 28 Kartik 2083** in the sitting called for a vote of confidence; no successor on 19 November 2026.
 - 🔄 Province Chief Dr Surendra Labh Karna, since 25 Kartik 2082. Speaker Ram Ashish Yadav, since 6 Poush 2082.
 - 🔄 Budget 2083/84: Rs 41.14 billion; 1 Ashad 2083; Yuvaraj Bhattarai; capital about 64%; second-largest budget; grants Rs 17.60 billion, the largest.
 - Second plan 2081/82–2085/86: "आत्मनिर्भर र समृद्ध मधेश, सुखी मधेशी".
@@ -2072,7 +2074,7 @@ Lines marked 🔄 hold recent facts. Check them again before your examination.
 15. The **Janaki Temple** was completed in **1967 BS** by Queen Vrisha Bhanu of Tikamgarh; the **Gadhimai** fair is held every five years in **Bara**.
 16. 🔄 In **2082/83** the province produced **13.1 percent** of GDP, grew by **1.31 percent** and earned **USD 934** a person — the last two the lowest of all.
 17. The Provincial Assembly has **107** seats; a majority is **54**; the province has **32** House seats, **four in each district**.
-18. The province has had **six Chief Ministers**; the first was **Lalbabu Raut** (2074) and 🔄 the sixth is **Krishna Prasad Yadav** (Nepali Congress), appointed on **19 Mangsir 2082** under Article 168 (2).
+18. The province has had **six Chief Ministers**; the first was **Lalbabu Raut** (2074) and 🔄 the sixth is **Krishna Prasad Yadav** (Nepali Congress), appointed on **19 Mangsir 2082** under Article 168 (2); he resigned on **28 Kartik 2083**.
 19. 🔄 The Province Chief is **Dr Surendra Labh Karna** (since 25 Kartik 2082) and the Speaker **Ram Ashish Yadav** (since 6 Poush 2082).
 20. 🔄 The budget for 2083/84 is **Rs 41.14 billion**; the **second periodic plan** covers **2081/82–2085/86** with the vision **"आत्मनिर्भर र समृद्ध मधेश, सुखी मधेशी"**.
 
@@ -2434,7 +2436,7 @@ How many of the 32 House of Representatives seats of Madhesh Province did the Ra
 | Local levels by kind in each district; House and Assembly seats by district; the old zones | Checked against a third-party study page and an encyclopaedia page | The district figures add to 1, 3, 73, 59 and 136 |
 | The naming vote of 3 Magh 2078 | Checked | Press reports of 17–19 January 2022; a commentary of February 2022 |
 | Chief Ministers, Province Chiefs, party seats in 2074 and 2079 | Checked | Encyclopaedia pages on the Chief Minister, the Governor and the second Assembly; press reports of 2025 |
-| Events of Kartik 2082 to Kartik 2083; votes of confidence; party seats now | Checked | Press reports up to 12 November 2026. The reports differ on the day the CPN (UML) left the government (30 or 25 Ashoj 2083) |
+| Events of Kartik 2082 to Kartik 2083; votes of confidence; party seats now | Checked | Press reports up to 12 November 2026; the resignation of 28 Kartik 2083 was added from press reports of 14–19 November 2026. The reports differ on the day the CPN (UML) left the government (30 or 25 Ashoj 2083) |
 | Budget for 2083/84 | Checked in press reports | The budget speech was not read. The note on the conditional grant is this book's arithmetic |
 | Second periodic plan: vision, goal, objectives | Vision checked in the Policy and Programme for 2082/83 as reported; goal and objectives from two third-party study pages | The plan file could not be opened |
 | Second periodic plan: number targets; first plan's income target | Third-party only | One study page; one press report |
@@ -2447,7 +2449,7 @@ How many of the 32 House of Representatives seats of Madhesh Province did the Ra
 | Items marked "general-knowledge books" | Third-party only | Lowest district headquarters; oldest canal; Rajbiraj as a planned town; districts with the most Dalit and Muslim people; peda of Barmajhiya |
 | Lowest point of Nepal | ⚖️ Disputed | See Chapter 1 |
 
-**Facts to re-check under UPDATE (🔄):** the result of the vote of confidence of 28 Kartik 2083 and the Chief Minister after it · the coalition, the ministers and the number of ministries · party seats and the Speaker · the Province Chief · the chairperson and members of the Province Public Service Commission · the share of GDP, growth and income per person · the budget of the next year · progress of the Sunkoshi–Marin Diversion, the Expressway, the railway to Bardibas and the Nijgadh airport · the tiger count of Parsa · any law on provincial languages · the dates of Chhath and Bibaha Panchami in your examination year · the next Gadhimai fair.
+**Facts to re-check under UPDATE (🔄):** the Chief Minister appointed after the resignation of 28 Kartik 2083 · the coalition, the ministers and the number of ministries · party seats and the Speaker · the Province Chief · the chairperson and members of the Province Public Service Commission · the share of GDP, growth and income per person · the budget of the next year · progress of the Sunkoshi–Marin Diversion, the Expressway, the railway to Bardibas and the Nijgadh airport · the tiger count of Parsa · any law on provincial languages · the dates of Chhath and Bibaha Panchami in your examination year · the next Gadhimai fair.
 
 ### G. References
 

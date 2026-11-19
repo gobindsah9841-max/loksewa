@@ -24,8 +24,9 @@ The order follows the book plan (A to L), then the syllabus-mandated additions.
 | 10 | 14 | 10 Koshi Province | ✅ Written |
 | 11 | 15 | 11 Madhesh Province | ✅ Written |
 | 12 | 16 | 12 Bagmati Province | ✅ Written |
-| 13 | 17 | 13 Gandaki Province | ⏳ Next |
-| 14–16 | 18–20 | 14–16 Province chapters, Lumbini to Sudurpashchim | ◻ |
+| 13 | 17 | 13 Gandaki Province | ✅ Written |
+| 14 | 18 | 14 Lumbini Province | ⏳ Next |
+| 15–16 | 19–20 | 15–16 Province chapters, Karnali and Sudurpashchim | ◻ |
 | 17 | 21 | 17 Public Management and Office Management | ◻ |
 | 18 | 22 | 18 Mental Ability | ◻ |
 | 19–21 | 23–25 | 19 Universe and World Geography; 20 World History; 21 Nepali and English | ◻ |
@@ -159,7 +160,7 @@ Every province chapter follows one template, so that provinces can be compared.
 | 10 ✅ | Koshi | Separate unit 1.5 (2 questions) | Provincial periodic plan is also named in unit 1.10 |
 | 11 ✅ | Madhesh | No separate unit: eleven units only (unit titles not read) | Province facts may be asked inside the geography, history, society, economy and current-affairs units |
 | 12 ✅ | Bagmati | No separate unit, and no unit of Paper I names the province (unit titles re-read) | Unit 1.7.1 asks for population and poverty by province; unit 1.8 for Federation, Province and local level; Paper II asks for the periodic plan of Bagmati Province |
-| 13 | Gandaki | Inside geography and culture units | — |
+| 13 ✅ | Gandaki | Inside two units: sub-unit 1.3.5 (economic and social activities; variety of livelihood) and sub-unit 1.6.3 (customs, religion, peoples, languages, art, literature, music) — wording re-read | Paper II asks for the province's current periodic plan, the bases of its economic development and of its revenue, and its urban growth and migration; Paper III names its Commission, the Chief Minister's office and the Assembly Secretariat |
 | 14 | Lumbini | Separate unit 1.12 (2 questions as read; possibly 3) | The wording of the unit will be re-read when the chapter is written |
 | 15 | Karnali | Inside history and economy units | Khas kingdom, Sinja civilisation; crops, herbs, mines |
 | 16 | Sudurpashchim | Inside geography, culture and economy units | — |
@@ -196,7 +197,7 @@ Every province chapter follows one template, so that provinces can be compared.
 | Questions | 35 in topics + 25 at chapter end = 60 MCQs; 7 + 5 = 12 short-answer questions. Because the Madhesh paper asks for 12 of 30 questions in the harder forms, 24 of the 60 MCQs are in those forms |
 | Facts checked on | 12 November 2026 (26 Kartik 2083) |
 | Special care | The figures already given in Chapters 1 to 10 are kept the same. District areas and populations were checked against an encyclopaedia list and add to the provincial totals. The plan file, the budget speech and the provincial portal could not be opened; the plan's vision is confirmed, its number targets rest on third-party notes only. A list of facts written from memory and a list taken from general-knowledge books are in section F of the chapter |
-| Facts to re-check under UPDATE | The vote of confidence of 28 Kartik 2083 and the Chief Minister after it; the coalition, the ministers and the number of ministries; party seats; the Province Chief and the Speaker; the Public Service Commission's office-bearers; the economy's figures for the next year; the budget of 2084/85; the Sunkoshi–Marin Diversion, the Expressway, the railway to Bardibas and the Nijgadh airport; any law on provincial languages |
+| Facts to re-check under UPDATE | The Chief Minister appointed after the resignation of 28 Kartik 2083; the coalition, the ministers and the number of ministries; party seats; the Province Chief and the Speaker; the Public Service Commission's office-bearers; the economy's figures for the next year; the budget of 2084/85; the Sunkoshi–Marin Diversion, the Expressway, the railway to Bardibas and the Nijgadh airport; any law on provincial languages |
 
 **What the second province chapter added — to be followed in Chapters 12 to 16**
 
@@ -224,6 +225,26 @@ Every province chapter follows one template, so that provinces can be compared.
 12. Look in **Paper II** of the province's syllabus as well. Bagmati's Paper I does not name the province, but its Paper II asks for the provincial periodic plan.
 13. A budget is presented by one government and may be carried out by another. Name the minister and the Chief Minister of the day of presentation.
 14. Where two readings of a syllabus table differ, give both and say which one fits the printed total.
+
+### Chapter 13 — Gandaki Province ✅
+
+| Item | Detail |
+|---|---|
+| Syllabus units | Gandaki has eleven general-knowledge units (30 questions) and three mental-ability units (20). The official file was read again on 19 November 2026. **Two sub-units name the province:** 1.3.5 — its economic and social activities and the variety of livelihood; 1.6.3 — its customs, traditions, values, religions, peoples, languages, culture, art, literature and music. The English version in the same file omits both. Paper II and Paper III name the province again. The date of force is printed blank |
+| Priority | Very high for Gandaki candidates. Candidates of the other provinces need topic 13.7 only |
+| Topics | 13.1 Profile of the province · 13.2 Physical geography · 13.3 History and archaeology · 13.4 Society and culture (sub-unit 1.6.3) · 13.5 Economy and ways of living (sub-unit 1.3.5) · 13.6 Government and institutions · 13.7 The province in numbers and superlatives; fact sheet |
+| Questions | 35 in topics + 25 at chapter end = 60 MCQs; 7 + 5 = 12 short-answer questions. Gandaki sets 40 percent of its general-knowledge questions at Level II, so 24 of the 60 MCQs are in the Level II forms |
+| Facts checked on | 19 November 2026 (3 Mangsir 2083) |
+| Special care | The figures already given in Chapters 1 to 12 are kept the same. District populations were checked against an encyclopaedia list and add to the provincial total; the district areas in that list add to 21,793 sq km, not 21,504, because Nawalpur is measured differently, and this is marked ⚖️. Local levels and House seats by district were checked against a study page and add to 85 and 18. The plan file and the full budget speech were not read; the second plan is given from an article by the vice-chairperson of the planning commission |
+| Facts to re-check under UPDATE | The Supreme Court's decision on the vote of confidence; the Chief Minister, the ministers and the number of ministries; party seats and the vacant seat; the Speaker; the Province Chief; the Public Service Commission's chairperson after Chaitra 2083; the use of Magar and Gurung in offices; the economy's figures for the next year; the budget of 2084/85; the targets of the second periodic plan; Pokhara International Airport; the Tanahu project; any revision of the syllabus; the date of the Assembly election due in 2084 |
+
+**What the fourth province chapter added — to be followed in Chapters 14 to 16**
+
+15. Read the **Nepali** text of a syllabus even when an English version is printed beside it. Gandaki's English version leaves out both sub-units on the province.
+16. When a new chapter finds a fact that an earlier chapter said was "not found" — here Gandaki's law on official languages — correct the earlier chapters in the same turn and record the correction in the README.
+17. Do a promised follow-up first. The Madhesh vote of confidence, left open by Chapter 11, was looked up before this chapter was written, and every line that named it was brought up to date.
+18. Where the province's own figure and the national office's figure differ (growth of 4.83 and 5.01 percent), give both and say which one the earlier chapters use.
+19. When a plan file cannot be opened, prefer an account written by the planners themselves for the wording of the vision, and say if the wording changed between drafts.
 
 ---
 
@@ -281,8 +302,9 @@ These three lists are a working plan built from the usual question types of the 
 5. Status of graduation from the least-developed-country category — settled for now: on 29 October 2026 the United Nations General Assembly moved it from 24 November 2026 to 24 November 2029 (Chapter 5, topic 5.10).
 6. Open syllabus items listed in Part 2, section 2.12. The titles of the Madhesh units were looked for again on 12 November 2026, while Chapter 11 was written, and are still unread: the official file opens only in a viewer and the page image with the titles could not be opened.
 7. Koshi Province, left open by Chapter 10: a new Province Chief; a new chairperson of the Province Public Service Commission; the remaining 14 percent of the budget of 2083/84; district populations against the census tables; the later course of the Pathibhara cable car.
-8. Madhesh Province, left open by Chapter 11: the result of the vote of confidence of 28 Kartik 2083; the ministers and the number of ministries; the text and the number targets of the second periodic plan; the budget speech, to settle whether the total of Rs 41.14 billion includes the conditional grant; the vision of the first plan; the result of the House seat Dhanusha–1.
+8. Madhesh Province, left open by Chapter 11: the Chief Minister who follows Krishna Prasad Yadav, who resigned on 28 Kartik 2083 instead of facing the vote of confidence (no successor on 19 November 2026); the ministers and the number of ministries; the text and the number targets of the second periodic plan; the budget speech, to settle whether the total of Rs 41.14 billion includes the conditional grant; the vision of the first plan; the result of the House seat Dhanusha–1.
 9. Bagmati Province, left open by Chapter 12: the election of a Speaker; the outcome of the writ against the appointment of the Chief Minister; who holds the Ministry of Internal Affairs, Law and Cooperatives; why six seats of the Assembly are vacant; the Chief Attorney; the number targets of the second periodic plan; the final toll of the Bhimphedi accident of 26 Kartik 2083; whether the syllabus of 2077/09/12 has been revised.
-10. Any official question paper or answer key that can be verified (Part 3, section 3.9).
+10. Gandaki Province, left open by Chapter 13: the Supreme Court's decision on whether the Chief Minister must seek a vote of confidence (hearing fixed for 2 Mangsir 2083; result not found); the ministers and who holds which ministry; whether a by-election has been called for the vacant seat of Manang (B); the Speaker (last confirmed for 2081); the Gazette date of the language Act and the real use of Magar and Gurung in offices; the text and number targets of the second periodic plan; the full budget speech; the chairperson of the Province Public Service Commission after Chaitra 2083; the date of force of the syllabus.
+11. Any official question paper or answer key that can be verified (Part 3, section 3.9).
 
 *End of Part 4.*

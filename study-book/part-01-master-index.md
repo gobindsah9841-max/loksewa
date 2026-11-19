@@ -2,7 +2,7 @@
 
 **Book:** Provincial Public Service Commission (प्रदेश लोक सेवा आयोग) — 5th Level, Non-Technical — Paper I Complete Study Book
 **Covers:** all seven provinces — Koshi, Madhesh, Bagmati, Gandaki, Lumbini, Karnali, Sudurpashchim
-**Edition date:** 13 November 2026 (27 Kartik 2083 BS)
+**Edition date:** 19 November 2026 (3 Mangsir 2083 BS)
 
 This index lists every Part of the book, the file that holds it, and whether it has been written. The live status is kept in [`README.md`](README.md).
 
@@ -53,8 +53,8 @@ This index lists every Part of the book, the file that holds it, and whether it 
 | 14 | 10 | Koshi Province | High for Koshi candidates | `part-14-chapter-10-koshi-province.md` | ✅ Written |
 | 15 | 11 | Madhesh Province | High for Madhesh candidates | `part-15-chapter-11-madhesh-province.md` | ✅ Written |
 | 16 | 12 | Bagmati Province | High for Bagmati candidates | `part-16-chapter-12-bagmati-province.md` | ✅ Written |
-| 17 | 13 | Gandaki Province | High for Gandaki candidates | `part-17-chapter-13-gandaki-province.md` | ⏳ Next |
-| 18 | 14 | Lumbini Province | High for Lumbini candidates | `part-18-chapter-14-lumbini-province.md` | ◻ Pending |
+| 17 | 13 | Gandaki Province | High for Gandaki candidates | `part-17-chapter-13-gandaki-province.md` | ✅ Written |
+| 18 | 14 | Lumbini Province | High for Lumbini candidates | `part-18-chapter-14-lumbini-province.md` | ⏳ Next |
 | 19 | 15 | Karnali Province | High for Karnali candidates | `part-19-chapter-15-karnali-province.md` | ◻ Pending |
 | 20 | 16 | Sudurpashchim Province | High for Sudurpashchim candidates | `part-20-chapter-16-sudurpashchim-province.md` | ◻ Pending |
 
@@ -261,6 +261,19 @@ This index lists every Part of the book, the file that holds it, and whether it 
 | 12.5 | Economy |
 | 12.6 | Government and institutions |
 | 12.7 | The province in numbers and superlatives; fact sheet |
+| — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
+
+### Chapter 13 — Gandaki Province (Part 17)
+
+| Topic | Title |
+|---|---|
+| 13.1 | Profile of the province |
+| 13.2 | Physical geography |
+| 13.3 | History and archaeology |
+| 13.4 | Society and culture (syllabus sub-unit 1.6.3) |
+| 13.5 | Economy and ways of living (syllabus sub-unit 1.3.5) |
+| 13.6 | Government and institutions |
+| 13.7 | The province in numbers and superlatives; fact sheet |
 | — | Chapter-end: Quick Revision · Top 20 facts · Top 25 MCQs · 5 short-answer questions · Common mistakes · Status of the facts · References |
 
 The topic lists planned for the remaining chapters are in Part 4.

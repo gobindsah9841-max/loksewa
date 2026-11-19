@@ -548,7 +548,8 @@ Languages belong to **families**. Most Nepalis speak a language of the Indo-Euro
 - On 21 Bhadra 2078 (6 September 2021) the Language Commission recommended **11 languages** for use in the provinces (table below).
 - **Bagmati:** passed the Province Official Language Act, 2080. **Tamang and Nepal Bhasa** came into use on **24 Baisakh 2081 (6 May 2024)**. Bagmati keeps that day as a language day with a provincial holiday.
 - **Koshi:** on **25 Kartik 2083 (11 November 2026)** the province brought **13 languages** besides Nepali into government use. The thirteen, as reported: Maithili, Limbu, Tharu, Tamang, Magar, Bantawa, Urdu, Rajbanshi, Rai, Nepal Bhasa, Chamling, Sherpa and Santhali. The provincial Act had been authenticated on 11 Kartik 2083 (28 October 2026).
-- A news report of October 2026 said that Madhesh had still not made such a law. No such law was found for Gandaki, Lumbini, Karnali or Sudurpashchim either.
+- **Gandaki:** the Provincial Assembly passed a Bill to use **Magar and Gurung** as languages of official business on **24 Ashad 2082 (8 July 2025)**; the Province Chief authenticated it on 19 Shrawan 2082 (4 August 2025). By the date of the law, Gandaki is the **second** province after Bagmati; how far its offices use the two languages was not checked. (This line was corrected on 19 November 2026; the first version of this chapter said that no such law had been found for Gandaki. See Chapter 13, topic 13.4.)
+- A news report of October 2026 said that Madhesh had still not made such a law. No such law was found for Lumbini, Karnali or Sudurpashchim either.
 
 **Other facts**
 
@@ -612,6 +613,7 @@ Counted once each, these are 11 languages: Maithili, Limbu, Bhojpuri, Bajjika, T
 | Language Commission | Article 287; formed 23 Bhadra 2073 |
 | Languages recommended for provinces | 11 |
 | Bagmati's official languages 🔄 | Tamang and Nepal Bhasa; 24 Baisakh 2081 |
+| Gandaki's official languages 🔄 | Magar and Gurung; Bill passed 24 Ashad 2082 |
 | Koshi's official languages 🔄 | 13 besides Nepali; 25 Kartik 2083 |
 | Script of Limbu | Sirijanga |
 | Scripts of Nepal Bhasa | Ranjana, Prachalit |
@@ -622,7 +624,7 @@ Counted once each, these are 11 languages: Maithili, Limbu, Bhojpuri, Bajjika, T
 - **"N – M – B – T – T":** Nepali, Maithili, Bhojpuri, Tharu, Tamang.
 - **"Six for all, seven for office":** Article 6 — languages of the nation; Article 7 — official language.
 - **"Sirijanga for Limbu, Ranjana for Newar, Rong for Lepcha."**
-- **"Bagmati 2081, Koshi 2083":** the two provinces that have begun to use their own languages.
+- **"Bagmati 2081, Gandaki 2082, Koshi 2083":** the three provinces that have made their own languages official.
 - **Sinja is the cradle of Nepali.**
 
 #### 7 · Exam traps
@@ -722,7 +724,7 @@ In which script is the Limbu language traditionally written?
 
 **Question.** Describe the language situation of Nepal and the provisions of the Constitution on language.
 
-**Model answer.** **Situation.** The Census of 2078 records **124 mother tongues**. Nepali is the mother tongue of 44.86 percent of the people, followed by Maithili (11.05), Bhojpuri (6.24), Tharu (5.88) and Tamang (4.88). Most people speak languages of the Indo-European family, but most of the languages belong to the Sino-Tibetan family; Santhali, Kurux and Kusunda stand apart. Many small languages are in danger. **Constitution.** (1) **Article 6:** all mother tongues spoken in Nepal are languages of the nation. (2) **Article 7:** Nepali in the Devanagari script is the official language; a province may add languages spoken by a majority of its people by provincial law. (3) **Article 31 (5):** each community has the right to education in its mother tongue. (4) **Article 32:** every person and community may use its language and protect its script and culture. (5) **Article 287:** a Language Commission studies languages and recommends official languages. **Practice.** The Commission recommended 11 languages for the provinces in 2078. Bagmati has used Tamang and Nepal Bhasa since 24 Baisakh 2081, and Koshi began to use 13 languages on 25 Kartik 2083. **Conclusion:** the law is generous; the task now is teachers, books and trained staff in these languages.
+**Model answer.** **Situation.** The Census of 2078 records **124 mother tongues**. Nepali is the mother tongue of 44.86 percent of the people, followed by Maithili (11.05), Bhojpuri (6.24), Tharu (5.88) and Tamang (4.88). Most people speak languages of the Indo-European family, but most of the languages belong to the Sino-Tibetan family; Santhali, Kurux and Kusunda stand apart. Many small languages are in danger. **Constitution.** (1) **Article 6:** all mother tongues spoken in Nepal are languages of the nation. (2) **Article 7:** Nepali in the Devanagari script is the official language; a province may add languages spoken by a majority of its people by provincial law. (3) **Article 31 (5):** each community has the right to education in its mother tongue. (4) **Article 32:** every person and community may use its language and protect its script and culture. (5) **Article 287:** a Language Commission studies languages and recommends official languages. **Practice.** The Commission recommended 11 languages for the provinces in 2078. Bagmati has used Tamang and Nepal Bhasa since 24 Baisakh 2081, Gandaki made Magar and Gurung official by a law of 2082, and Koshi began to use 13 languages on 25 Kartik 2083. **Conclusion:** the law is generous; the task now is teachers, books and trained staff in these languages.
 
 ---
 
@@ -2337,7 +2339,7 @@ Which body conducts the national examination at the end of Grade 12?
 - 124 mother tongues. Nepali 44.86, Maithili 11.05, Bhojpuri 6.24, Tharu 5.88, Tamang 4.88.
 - Article 6 languages of the nation; Article 7 official language; Article 287 Language Commission.
 - Scripts: Sirijanga (Limbu); Ranjana and Prachalit (Nepal Bhasa); Mithilakshar (Maithili); Rong (Lepcha).
-- Commission recommended 11 languages. Bagmati: Tamang and Nepal Bhasa from 24 Baisakh 2081. Koshi: 13 languages from 25 Kartik 2083 🔄.
+- Commission recommended 11 languages. Bagmati: Tamang and Nepal Bhasa from 24 Baisakh 2081. Gandaki: Magar and Gurung, Bill passed 24 Ashad 2082. Koshi: 13 languages from 25 Kartik 2083 🔄.
 
 **Religions and festivals**
 - 10 religions: Hindu 81.19, Buddhist 8.21, Islam 5.09, Kirat 3.17, Christian 1.76.
@@ -2395,7 +2397,7 @@ Which body conducts the national examination at the end of Grade 12?
 6. **59** indigenous nationalities are listed by the Act of 2058, in five classes; the **Newar and Thakali** are "advanced".
 7. There are **124** mother tongues; **Nepali (44.86%)** and **Maithili (11.05%)** lead.
 8. **Article 6** makes all mother tongues languages of the nation; **Article 7** makes Nepali in Devanagari the official language and lets provinces add others.
-9. **Bagmati** has used Tamang and Nepal Bhasa since **24 Baisakh 2081**; **Koshi** began to use 13 languages on **25 Kartik 2083** 🔄.
+9. **Bagmati** has used Tamang and Nepal Bhasa since **24 Baisakh 2081**; **Gandaki** made Magar and Gurung official by a Bill passed on **24 Ashad 2082**; **Koshi** began to use 13 languages on **25 Kartik 2083** 🔄.
 10. The census records **10 religions**: Hindu **81.19%**, Buddhist 8.21%, Islam 5.09%, Kirat 3.17%, Christian 1.76%.
 11. Nepal is a **secular** state (Article 4); **Dashain** lasts 15 days and **Tihar** 5; **Chhath** is a worship of the Sun.
 12. **Nyatapola** (1702) is pagoda style, the **Krishna Mandir** of Patan (1637) shikhara style, and the **Janaki Temple** dome style.
