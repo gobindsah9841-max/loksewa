@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Optional checks of the reader's pages (run after build_apk.py --keep-work):
-#   1. tools/test_ui.js       55 behaviour checks in a simulated browser (jsdom)
+#   1. tools/test_ui.cjs      55 behaviour checks in a simulated browser (jsdom)
 #   2. tools/browser_check.mjs a walk through every screen in a real headless Chromium opened from
 #                              disk at phone size, with screenshots
 # Everything it needs comes from registry.npmjs.org and pypi.org and goes into $BC (default
@@ -58,7 +58,7 @@ XML
 if [ -n "${SETUP_ONLY:-}" ]; then exit 0; fi
 
 echo "== 1. Behaviour checks (jsdom)"
-node "$HERE/test_ui.js" "$WWW" "$BC/node_modules" | tail -1
+node "$HERE/test_ui.cjs" "$WWW" "$BC/node_modules" | tail -1
 
 echo "== 2. Real Chromium, opened from disk at phone size"
 cp "$HERE/browser_check.mjs" "$BC/browser_check.mjs"
