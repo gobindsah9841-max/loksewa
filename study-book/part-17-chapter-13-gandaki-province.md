@@ -161,7 +161,7 @@ Like every province, Gandaki was formed on the day the Constitution came into fo
 | Gorkha (गोरखा) | Gorkha | 3,610 | 251,027 | 11 (2 + 9) | 2 |
 | Lamjung (लमजुङ) | Besisahar | 1,692 | 155,852 | 8 (4 + 4) | 1 |
 | Tanahun (तनहुँ) | Damauli | 1,546 | 321,153 | 10 (4 + 6) | 2 |
-| Syangja (स्याङ्जा) | Putalibazar | 1,164 | 253,024 | 11 (5 + 6) | 2 |
+| Syangja (स्याङ्जा) | Putalibazar (Syangja Bazar) | 1,164 | 253,024 | 11 (5 + 6) | 2 |
 | Kaski (कास्की) | Pokhara | 2,017 | 600,051 | 5 (1 + 4) | 3 |
 | Manang (मनाङ) | Chame | 2,246 | 5,658 | 4 (0 + 4) | 1 |
 | Mustang (मुस्ताङ) | Jomsom | 3,573 | 14,452 | 5 (0 + 5) | 1 |
@@ -649,7 +649,7 @@ Far in the north, the walled town of **Lo Manthang** in Mustang kept its own loc
 
 - Upper Mustang was the small kingdom of **Lo**, with its walled capital **Lo Manthang**. It came under Nepal in the time of the regents but kept its own raja as a dependant.
 - The law that ended the small vassal states took away the ruling powers of such rajas from **2017 BS** (Chapter 2). The raja of Mustang kept an honorary title until the republic ended it in 2065 BS (from memory).
-- **Lo Manthang** is on Nepal's tentative list for World Heritage.
+- **Lo Manthang** is on Nepal's tentative list for World Heritage. The same list has a third entry from this province: the **cave architecture of the Muktinath valley** of Mustang (from memory).
 
 **From zones to province**
 
@@ -726,7 +726,7 @@ Far in the north, the walled town of **Lo Manthang** in Mustang kept its own loc
 | Zones decided | 5 Mangsir 2019 |
 | Western Development Region | 2029 BS; centre Pokhara |
 | Epicentre of 2072 | Barpak, Gorkha |
-| On the tentative World Heritage list | Gorkha palace; Lo Manthang |
+| On the tentative World Heritage list | Gorkha palace; Lo Manthang; caves of the Muktinath valley |
 
 #### 6 · Memory aid
 
@@ -789,14 +789,14 @@ Three of these were Chaubise states inside today's Gandaki Province. Which one i
 
 **Q 13.3.3** `[Expected – Practice]`
 
-Which two places of Gandaki Province are on Nepal's tentative list for World Heritage?
+The walled town of Lo Manthang, which is on Nepal's tentative list for World Heritage, lies in which district?
 
-- (a) Bandipur and Kaskikot
-- (b) The palace of Gorkha and Lo Manthang
-- (c) Muktinath and Manakamana
-- (d) Pokhara and Ghandruk
+- (a) Manang
+- (b) Mustang
+- (c) Gorkha
+- (d) Myagdi
 
-**Answer: (b)** — The medieval palace of Gorkha and the walled town of Lo Manthang in Mustang (Chapter 6). Neither has yet been inscribed.
+**Answer: (b)** — Mustang. Lo Manthang was the capital of the old kingdom of Lo. The palace of Gorkha is on the same list; neither has yet been inscribed.
 
 **Q 13.3.4** `[Pattern-Based – Reconstructed]`
 
@@ -1968,7 +1968,7 @@ Lines marked 🔄 hold recent facts. Check them again before your examination.
 - Prithvi Narayan Shah born in Gorkha, 27 Poush 1779 BS; king 1799 BS; capital moved to Kathmandu after 1768–1769.
 - Lamjung, Tanahun, Kaski, Parbat joined about 1782–1786, under the regents.
 - Jung Bahadur: "Maharaja of Kaski and Lamjung", 1856. Lakhan Thapa Magar of Gorkha: first martyr, 1933 BS.
-- Gorkha palace and Lo Manthang are on the tentative World Heritage list.
+- Gorkha palace and Lo Manthang (Mustang) are on the tentative World Heritage list.
 
 **Society**
 - Brahman (Hill) 20.0, Magar 18.8, Chhetri 13.1, Gurung 11.0 percent; 107 groups.
@@ -2382,7 +2382,7 @@ Match the office with its holder in Mangsir 2083.
 | First meeting of the Assembly; Establishment Day | Checked, with one difference | Press reports of January 2025 on the decision to keep 22 Magh; the Gazette notice of holidays for 2083. An encyclopaedia page gives 4 February 2018 for the first meeting |
 | Heights, land belts, extent | Province profile as copied by a study page and an encyclopaedia | The lowest point is printed as 87 m, 93 m and "about 100 m" |
 | Peaks, passes, rivers, lakes, protected areas | Taken from Chapter 1, with additions | Years of first ascent, the nine lakes of the Ramsar cluster, the joining places of rivers, Larkya La and the Seti flood of 2069 are **from memory** |
-| Chaubise states and their districts today; dates of 1782–1786; Liglig; Mustang's raja | **Partly from memory** | The list of states is from an encyclopaedia page whose list differs from textbook lists; the district of each small state and the dates of the regents' conquests were not checked against a history text |
+| Chaubise states and their districts today; dates of 1782–1786; Liglig; Mustang's raja; the third tentative-list entry (caves of the Muktinath valley) | **Partly from memory** | The list of states is from an encyclopaedia page whose list differs from textbook lists; the district of each small state and the dates of the regents' conquests were not checked against a history text |
 | Gorkha kings, unification, first martyr, zones, earthquake | Taken from Chapter 2 | — |
 | Peoples, languages and religions by percentage | Encyclopaedia figures of the Census of 2078 | Count of 107 groups and literacy by sex from a study page |
 | Homes of small peoples; Arghun, Nogar, Lha Phewa, Toran La, mothers' groups; minor writers; Salaijo, Thado Bhaka and other songs; museums | **From memory** | Marked where they appear |
