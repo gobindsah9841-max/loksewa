@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Checks of the web application in docs/ (run after web-app/build_web.py):
-#   1. android-app/tools/test_ui.js   the app's 55 behaviour checks in a simulated browser (jsdom),
+#   1. android-app/tools/test_ui.cjs  the app's 55 behaviour checks in a simulated browser (jsdom),
 #                                     with the pages coming from a web server
 #   2. web-app/tools/check_web.mjs    a real headless Chromium: the site served the way GitHub Pages
 #                                     serves it, the offline copy, and the update to a newer build
@@ -19,7 +19,7 @@ export BC
 SETUP_ONLY=1 bash "$REPO/android-app/tools/browser_check.sh"
 
 echo "== 1. Behaviour checks (jsdom), pages from a web server"
-node "$REPO/android-app/tools/test_ui.js" "$DOCS" "$BC/node_modules" | tail -1
+node "$REPO/android-app/tools/test_ui.cjs" "$DOCS" "$BC/node_modules" | tail -1
 
 echo "== 2. Real Chromium: served like GitHub Pages, offline copy, update"
 cp "$HERE/tools/check_web.mjs" "$BC/check_web.mjs"

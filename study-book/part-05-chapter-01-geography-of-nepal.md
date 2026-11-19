@@ -1519,7 +1519,7 @@ Think of Nepal as a long rectangle with **three strips** from south to north (Te
 | Koshi | Taplejung → Phungling · Panchthar → Phidim · Jhapa → Bhadrapur · Morang → Biratnagar · Sunsari → Inaruwa · Terhathum → Myanglung · Sankhuwasabha → Khandbari · Solukhumbu → Salleri · Khotang → Diktel · Udayapur → Gaighat |
 | Madhesh | Saptari → Rajbiraj · Dhanusha → Janakpurdham · Mahottari → Jaleshwar · Sarlahi → Malangwa · Rautahat → Gaur · Bara → Kalaiya · Parsa → Birgunj |
 | Bagmati | Sindhuli → Sindhulimadhi · Ramechhap → Manthali · Dolakha → Charikot · Sindhupalchok → Chautara · Kavrepalanchok → Dhulikhel · Nuwakot → Bidur · Rasuwa → Dhunche · Dhading → Dhadingbesi · Makawanpur → Hetauda · Chitwan → Bharatpur |
-| Gandaki | Lamjung → Besisahar · Tanahun → Damauli · Kaski → Pokhara · Manang → Chame · Mustang → Jomsom · Myagdi → Beni · Parbat → Kusma · Nawalpur → Kawasoti |
+| Gandaki | Lamjung → Besisahar · Tanahun → Damauli · Syangja → Putalibazar (the town is also called Syangja Bazar) · Kaski → Pokhara · Manang → Chame · Mustang → Jomsom · Myagdi → Beni · Parbat → Kusma · Nawalpur → Kawasoti |
 | Lumbini | Nawalparasi West → Parasi · Rupandehi → Siddharthanagar (Bhairahawa) · Kapilvastu → Taulihawa · Palpa → Tansen · Arghakhanchi → Sandhikharka · Gulmi → Tamghas · Rolpa → Liwang · Rukum East → Rukumkot · Dang → Ghorahi · Banke → Nepalgunj · Bardiya → Gulariya |
 | Karnali | Rukum West → Musikot · Surkhet → Birendranagar · Dolpa → Dunai · Kalikot → Manma · Mugu → Gamgadhi · Humla → Simikot |
 | Sudurpashchim | Bajura → Martadi · Bajhang → Chainpur · Achham → Mangalsen · Doti → Dipayal · Kailali → Dhangadhi · Kanchanpur → Bhimdatta (Mahendranagar) · Baitadi → Dasharathchand |

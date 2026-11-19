@@ -3,17 +3,17 @@
 | | |
 |---|---|
 | File | `loksewa-study-book.apk` |
-| Built (UTC) | 13 November 2026, 15:11 |
+| Built (UTC) | 19 November 2026, 13:49 |
 | App name | Loksewa Study Book |
 | Package | `io.github.gobindsah9841max.loksewa.studybook` |
-| Version | 1.16 (code 26111315) |
+| Version | 1.17 (code 26111913) |
 | Android versions | declared minimum Android 5.0 (API 21); built against and targeting Android 14 (API 34) |
 | Permissions | none (checked in the finished APK) |
-| Size | 1.49 MB (1490268 bytes); 5.3 MB unpacked; 47 files |
-| SHA-256 of the APK | `58811b31e96774d3a24b890c80033515e0fe84ebe93df12fd118714dffd41973` |
-| Signing certificate SHA-256 | `711b8cdacb7934d32cc3189788ecaa91730c64eb45ccd054f2d05f73aa768dde` |
+| Size | 1.63 MB (1625584 bytes); 5.7 MB unpacked; 49 files |
+| SHA-256 of the APK | `562a193d9d78e89160da07b89ca2245f98369e2afb4d353dbde6b39af64f27b2` |
+| Signing certificate SHA-256 | `4244f1f7341130c7c48649fc8931647d941e2a9fd4c9c206a6e20ba657daf88f` |
 | Signature schemes | v1 (JAR), v2 and v3 — checked with `apksigner verify` |
-| Book content | Parts 1–16 (Chapters 1–12): 830 MCQs, 166 short-answer questions |
+| Book content | Parts 1–17 (Chapters 1–13): 890 MCQs, 178 short-answer questions |
 
 Checks run by the build: `apksigner verify` (v1, v2, v3), `aapt2 dump badging`, 4-byte alignment of every stored entry,
 no permission requested, and no class in `classes.dex` other than the app's own.

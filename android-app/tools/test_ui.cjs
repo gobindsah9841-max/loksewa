@@ -1,5 +1,7 @@
 /* Smoke test of the reader app in a simulated browser (jsdom).
-   Usage:  node test_ui.js <path-to-www-dir> [path-to-node_modules-with-jsdom]   (needs: npm install jsdom)
+   Usage:  node test_ui.cjs <path-to-www-dir> [path-to-node_modules-with-jsdom]   (needs: npm install jsdom)
+   The file name ends in .cjs because the package.json at the top of the repository (it belongs to another
+   application) says "type": "module"; with the ending .js Node would refuse the require() calls below.
    It opens every screen, answers questions, runs a timed test and a search,
    and fails if any script error is reported. It does not test layout. */
 'use strict';

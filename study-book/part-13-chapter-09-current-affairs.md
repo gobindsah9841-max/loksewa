@@ -1505,6 +1505,7 @@ Three things happened in the provinces in this period.
 **Madhesh** 🔄
 
 - Chief Minister **Krishna Prasad Yadav** (Nepali Congress); Province Chief Surendra Labh Karna.
+- **Update of 19 November 2026:** the Chief Minister **resigned on 28 Kartik 2083 (14 November 2026)**, in the sitting called for a vote of confidence. He stays as caretaker; no successor had been appointed (Chapter 11, topic 11.6).
 - Budget: **Rs 41.13 billion**, about 13 percent less than the year before. The province receives the largest federal transfer.
 - The violence that began in Sunsari reached **Siraha, Saptari and Dhanusha**; curfews were ordered there and a prohibitory order in Birgunj (Parsa). The Prime Minister addressed the nation on 30 July 2026.
 - A curfew had also been ordered in **Birgunj** on 22 Poush 2082 (6 January 2026), after a mosque was damaged.
@@ -1560,7 +1561,7 @@ Three things happened in the provinces in this period.
 | Province | Chief Minister (party) | Province Chief | Budget 2083/84 (Rs billion) |
 |---|---|---|---|
 | Koshi | Hikmat Kumar Karki (CPN-UML) | Parshuram Khapung (term due to end 24 Kartik 2083) | 40.45 |
-| Madhesh | Krishna Prasad Yadav (Nepali Congress) | Surendra Labh Karna | 41.13 |
+| Madhesh | Krishna Prasad Yadav (Nepali Congress) — resigned on 28 Kartik 2083; caretaker | Surendra Labh Karna | 41.13 |
 | Bagmati | Kiran Thapa Magar (CPN-UML) | Deepak Prasad Devkota | 66.93 |
 | Gandaki | Surendra Raj Pandey (Nepali Congress) | Dilli Raj Bhatta | 33.00 |
 | Lumbini | Chet Narayan Acharya (CPN-UML) | Krishna Bahadur Gharti Magar | 37.38 |
@@ -1618,7 +1619,7 @@ The one fact about each province most likely to be asked 🔄.
 | Province | Most likely question |
 |---|---|
 | Koshi | 13 languages for official use from 25 Kartik 2083, the birthday of Mahaguru Phalgunanda |
-| Madhesh | Chief Minister Krishna Prasad Yadav; curfews in Siraha, Saptari and Dhanusha in Shrawan 2083 |
+| Madhesh | Chief Minister Krishna Prasad Yadav (resigned on 28 Kartik 2083); curfews in Siraha, Saptari and Dhanusha in Shrawan 2083 |
 | Bagmati | Bhote Koshi flood of 10 Bhadra 2083; Chief Minister Kiran Thapa Magar since 4 Bhadra 2083 |
 | Gandaki | Earthquake of magnitude 4.9 in Mustang on 23 Bhadra 2083; smallest provincial budget |
 | Lumbini | Lumbini Lions, champions of the Nepal Premier League; Chief Minister Chet Narayan Acharya |
@@ -1699,7 +1700,7 @@ Rasuwa, Nuwakot and Dhading, the districts struck by the flood of 10 Bhadra 2083
 
 **Question.** What changes took place in the provincial governments in 2083 BS? Name the present Chief Ministers.
 
-**Model answer.** **Background:** the Provincial Assemblies were elected in 2079 and were not dissolved in 2082, so their party strengths did not change when the Rastriya Swatantra Party won the federal election. **Changes in 2083:** (1) **Karnali** — Yam Lal Kandel resigned on 9 Shrawan 2083 and Mangal Bahadur Shahi of the Nepali Communist Party became Chief Minister; (2) **Sudurpashchim** — Khagaraj Bhatta of the Nepali Communist Party was appointed on 29 Shrawan 2083 under Article 168 (2), and his government presented a budget again on 25 Ashoj 2083; (3) **Bagmati** — Kiran Thapa Magar of the CPN (UML) was appointed on 4 Bhadra 2083 under Article 168 (2). (4) **Koshi** — the Chief Minister did not change, but the Nepali Congress left his government on 27 Shrawan 2083 and the Nepali Communist Party joined on 1 Bhadra 2083; he won a vote of confidence on 8 Bhadra 2083. **Present Chief Ministers:** Koshi — Hikmat Kumar Karki; Madhesh — Krishna Prasad Yadav; Bagmati — Kiran Thapa Magar; Gandaki — Surendra Raj Pandey; Lumbini — Chet Narayan Acharya; Karnali — Mangal Bahadur Shahi; Sudurpashchim — Khagaraj Bhatta. **By party:** CPN (UML) three, Nepali Congress two, Nepali Communist Party two. **Ahead:** the Assemblies' term ends on 4 Mangsir 2084, and elections are due in 2084.
+**Model answer.** **Background:** the Provincial Assemblies were elected in 2079 and were not dissolved in 2082, so their party strengths did not change when the Rastriya Swatantra Party won the federal election. **Changes in 2083:** (1) **Karnali** — Yam Lal Kandel resigned on 9 Shrawan 2083 and Mangal Bahadur Shahi of the Nepali Communist Party became Chief Minister; (2) **Sudurpashchim** — Khagaraj Bhatta of the Nepali Communist Party was appointed on 29 Shrawan 2083 under Article 168 (2), and his government presented a budget again on 25 Ashoj 2083; (3) **Bagmati** — Kiran Thapa Magar of the CPN (UML) was appointed on 4 Bhadra 2083 under Article 168 (2). (4) **Koshi** — the Chief Minister did not change, but the Nepali Congress left his government on 27 Shrawan 2083 and the Nepali Communist Party joined on 1 Bhadra 2083; he won a vote of confidence on 8 Bhadra 2083. **Present Chief Ministers:** Koshi — Hikmat Kumar Karki; Madhesh — Krishna Prasad Yadav (he resigned on 28 Kartik 2083 and is caretaker); Bagmati — Kiran Thapa Magar; Gandaki — Surendra Raj Pandey; Lumbini — Chet Narayan Acharya; Karnali — Mangal Bahadur Shahi; Sudurpashchim — Khagaraj Bhatta. **By party:** CPN (UML) three, Nepali Congress two, Nepali Communist Party two. **Ahead:** the Assemblies' term ends on 4 Mangsir 2084, and elections are due in 2084.
 
 ---
 
@@ -2045,7 +2046,7 @@ Which of these pairs for the year 2026 is **wrongly** matched?
 - Nirmal Purja: 14 peaks in 189 days (2019); died 30 July 2026 on Broad Peak.
 
 **Provinces**
-- Chief Ministers: Koshi — Hikmat Kumar Karki; Madhesh — Krishna Prasad Yadav; Bagmati — Kiran Thapa Magar; Gandaki — Surendra Raj Pandey; Lumbini — Chet Narayan Acharya; Karnali — Mangal Bahadur Shahi; Sudurpashchim — Khagaraj Bhatta.
+- Chief Ministers: Koshi — Hikmat Kumar Karki; Madhesh — Krishna Prasad Yadav (resigned 28 Kartik 2083; caretaker); Bagmati — Kiran Thapa Magar; Gandaki — Surendra Raj Pandey; Lumbini — Chet Narayan Acharya; Karnali — Mangal Bahadur Shahi; Sudurpashchim — Khagaraj Bhatta.
 - By party: CPN (UML) 3; Nepali Congress 2; Nepali Communist Party 2. None from the Rastriya Swatantra Party.
 - New in 2083: Karnali (late Shrawan); Sudurpashchim (29 Shrawan); Bagmati (4 Bhadra).
 - Budgets, Rs billion: Koshi 40.45; Madhesh 41.13; Bagmati 66.93; Gandaki 33.00; Lumbini 37.38; Karnali 35.40; Sudurpashchim 37.70.

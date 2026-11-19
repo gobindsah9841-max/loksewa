@@ -9,7 +9,7 @@
    "Update" (pwa.js sends SKIP_WAITING) or when every tab of the book has been closed. */
 'use strict';
 
-var VERSION = "1.16-d15cf8a11bea";
+var VERSION = "1.17-d9a7422023ea";
 var CACHE = 'loksewa-' + VERSION;
 var FILES = [
   "./",
@@ -25,6 +25,7 @@ var FILES = [
   "data/part-14.js",
   "data/part-15.js",
   "data/part-16.js",
+  "data/part-17.js",
   "data/part-2.js",
   "data/part-3.js",
   "data/part-4.js",
@@ -37,6 +38,7 @@ var FILES = [
   "data/quiz-10.js",
   "data/quiz-11.js",
   "data/quiz-12.js",
+  "data/quiz-13.js",
   "data/quiz-2.js",
   "data/quiz-3.js",
   "data/quiz-4.js",

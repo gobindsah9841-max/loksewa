@@ -314,7 +314,7 @@ Each province has a small copy of the national system.
 | Province | First Chief Minister (2074) | Chief Minister now | Province Chief now |
 |---|---|---|---|
 | Koshi | Sher Dhan Rai | Hikmat Kumar Karki (CPN-UML) | Parshuram Khapung's five-year term was due to end on 24 Kartik 2083 (10 November 2026); no report of a successor was found when checked |
-| Madhesh | Lalbabu Raut | Krishna Prasad Yadav (Nepali Congress) | Surendra Labh Karna |
+| Madhesh | Lalbabu Raut | Krishna Prasad Yadav (Nepali Congress) — he resigned on 28 Kartik 2083 (14 November 2026) and was caretaker on 19 November 2026; no successor yet | Surendra Labh Karna |
 | Bagmati | Dormani Paudel | Kiran Thapa Magar (CPN-UML), appointed 4 Bhadra 2083 (20 August 2026) under Article 168 (2) | Deepak Prasad Devkota |
 | Gandaki | Prithvi Subba Gurung | Surendra Raj Pandey (Nepali Congress) | Dilli Raj Bhatta |
 | Lumbini | Shankar Pokharel | Chet Narayan Acharya (CPN-UML) | Krishna Bahadur Gharti Magar |
