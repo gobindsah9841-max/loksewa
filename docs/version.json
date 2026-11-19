@@ -1,12 +1,12 @@
 {
   "name": "Loksewa Study Book",
   "version": "1.17",
-  "offlineCopy": "1.17-2530789f81dd",
+  "offlineCopy": "1.17-d9a7422023ea",
   "built": "19 November 2026",
   "parts": "1-17",
   "chapters": "1-13",
   "mcq": 890,
   "shortAnswerQuestions": 178,
   "files": 42,
-  "bytes": 5752405
+  "bytes": 5754337
 }
