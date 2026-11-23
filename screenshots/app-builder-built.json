@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Loksewa Study Book",
+      "hasCanvas": false,
+      "bodyTextLen": 1454,
+      "bodyTextHash": "50824195f42b47e45ff5a1c53c5942c2ade63346ff097f3fb7c55ccdec521524",
+      "bodyTextPrefix": "PAPER I · GENERAL KNOWLEDGE Loksewa Provincial Public Service Co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Loksewa Study Book",
+      "hasCanvas": false,
+      "bodyTextLen": 1454,
+      "bodyTextHash": "50824195f42b47e45ff5a1c53c5942c2ade63346ff097f3fb7c55ccdec521524",
+      "bodyTextPrefix": "PAPER I · GENERAL KNOWLEDGE Loksewa Provincial Public Service Co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
